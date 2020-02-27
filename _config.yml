@@ -1,0 +1,28 @@
+title: The Sauce Book Online
+permalink: :slug
+theme: jekyll-theme-leaf
+iconURL: /assets/default-icon.png
+collections:
+    races:
+        output: true
+    classes:
+        output: true
+    feats:
+        output: true
+    backgrounds:
+        output: true
+defaults:
+  - scope:
+      path: ""
+      type: "races"
+    values:
+      layout: "race"
+  - scope:
+      path: ""
+      type: "classes"
+    values:
+      layout: "class"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

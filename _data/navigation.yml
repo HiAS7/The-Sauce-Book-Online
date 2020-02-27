@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Races
+  link: /races.html
+- name: Classes
+  link: /classes.html
