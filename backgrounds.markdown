@@ -1,3 +1,6 @@
+---
+layout: background
+---
 # Backgrounds
 
 - [Acolyte](#acolyte)

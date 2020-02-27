@@ -5,6 +5,6 @@
 - name: Classes
   link: /classes.html
 - name: Feats
-  link: /classes.html
+  link: /feats.markdown
 - name: Backgrounds
-  link: /classes.html
+  link: /backgrounds.markdown

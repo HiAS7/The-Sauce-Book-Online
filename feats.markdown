@@ -1,3 +1,6 @@
+---
+layout: feat
+---
 ## Feats
 
 #### Alert

@@ -25,5 +25,15 @@ defaults:
       layout: "class"
   - scope:
       path: ""
+      type: "feats"
+    values:
+      layout: "feat"
+  - scope:
+      path: ""
+      type: "backgrounds"
+    values:
+      layout: "background"
+  - scope:
+      path: ""
     values:
       layout: "default"
