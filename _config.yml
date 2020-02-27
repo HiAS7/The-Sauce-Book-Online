@@ -1,6 +1,6 @@
 title: The Sauce Book Online
 permalink: :slug
-theme: jekyll-theme-architect
+theme: jekyll-theme-leaf
 iconURL: /assets/default-icon.png
 url: saucebook.github.io
 collections:

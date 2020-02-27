@@ -251,6 +251,7 @@ DEPENDENCIES
   jekyll-seo-tag (~> 2.6)
   jekyll-sitemap
   jekyll-theme-leaf
+  jekyll-theme-merlot
 
 BUNDLED WITH
    2.1.4
