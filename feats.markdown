@@ -500,6 +500,7 @@ Human | Prodigy
 Tiefling| Flames of Phlegethos
 Tiefling| Infernal Constitution
 
+
 ## BOUNTIFUL LUCK
 *Prerequisite: Halfling*<br/>
 Your people have extraordinary luck, which you have
@@ -512,6 +513,7 @@ reaction to let the ally reroll
 the die. The ally must use the new roll.
 When you use this ability, you can’t use your Lucky
 racial trait before the end of your next turn.
+
 ## DRAGON FEAR
 *Prerequisite: Dragonborn*<br/>
 When angered, you can radiate menace. You gain the
@@ -523,6 +525,7 @@ each creature of your choice within 30 feet of you to
 make a Wisdom saving throw (DC **8 + your proficiency bonus + your Charisma modifier**). A target automatically succeeds on the save if it can’t hear or see you.
 On a failed save, a target becomes frightened of you
 for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+
 ## DRAGON HIDE
 *Prerequisite: Dragonborn*<br/>
 You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits: 
@@ -535,6 +538,7 @@ use to make unarmed strikes. If you hit with them, you
 deal slashing damage equal to 1d4 + your Strength
 modifier, instead of the normal bludgeoning damage
 for an unarmed strike.
+
 ## DROW HIGH MAGIC
 *Prerequisite: Elf(drow)*<br/>
 You learn more of the magic typical of dark elves. You
@@ -543,6 +547,7 @@ dispel magic, each of which you can cast once without
 expending a spell slot. You regain the ability to cast
 those two spells in this way when you finish a long rest.
 Charisma is your spellcasting ability for all three spells.
+
 ## DWARVEN FORTITUDE
 *Prerequisite: Dwarf*<br/>
 You have the blood of dwarf heroes flowing through
@@ -552,6 +557,7 @@ your veins. You gain the following benefits:
 can spend one Hit Die to heal yourself. Roll the die,
 add your Constitution modifier, and regain a number
 of hit points equal to the total (minimum of 1).
+
 ## ELVEN ACCURACY
 *Prerequisite: Elf or half-elf*<br/>
 The accuracy of elves is legendary, especially that of elf
@@ -561,6 +567,7 @@ gain the following benefits:
 * Whenever you have advantage on an attack roll using
 Dexterity, Intelligence, Wisdom, or Charisma, you can
 reroll one of the dice once. 
+
 ## FADE AWAY
 *Prerequisite: Gnome*<br/>
 Your people are Clever, with a knack for illusion magic.
@@ -572,6 +579,7 @@ reaction to magically become invisible until the end
 of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you
 use this ability, you can’t do so again until you finish a
 short or long rest.
+
 ## FEY TELEPORTATION
 *Prerequisite: Elf(high)*<br/>
 Your study of high elven lore has unlocked fey power
@@ -584,6 +592,7 @@ a maximum of 20.
 * You learn the misty step spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or
 long rest. Intelligence is your spellcasting ability for
 this spell.
+
 ## FLAMES OF PHLEGETHOS
 *Prerequisite: Tiefling*<br/>
 You learn to call on hellfire to serve your commands.
@@ -599,12 +608,14 @@ next turn. The flames don’t harm you or your possessions, and they shed bright
 light for an additional 30 feet. While the flames are
 present, any creature within 5 feet of you that hits you
 with a melee attack takes 1d4 fire damage.
+
 ## INFERNAL CONSTITUTION
 *Prerequisite: Tiefling*<br/>
 Fiendish blood runs strong in you, unlocking a resilience akin to that possessed by some fiends. You gain
 the following benefits: 
 * Increase your Constitution score by l, to a maximum of 20. 
 * You have resistance to cold damage and poison damage. You have advantage on saving throws against being poisoned.
+
 ## ORCISH FURY
 *Prerequisite: Half-orc*<br/>
 Your inner fury burns tirelessly. You gain the following benefits: 
@@ -617,6 +628,7 @@ weapon’s damage type. Once you use this ability, you
 can’t use it again until you finish a short or long rest. 
 * Immediately after you use your Relentless Endur—
 ance trait, you can use your reaction to make one weapon attack.
+
 ## PRODIGY
 *Prerequisite: Half-elf, Half-orc or Human*<br/>
 You have a knack for learning new things. You gain the
@@ -629,6 +641,7 @@ gain expertise with that skill, which means your proficiency bonus is doubled fo
 with it. The skill you choose must be one that isn’t
 already benefiting from a feature, such as Expertise,
 that doubles your proficiency bonus.
+
 ## SECOND CHANCE
 *Prerequisite: Halfling*<br/>
 Fortune favors you when someone tries to strike you.
@@ -640,6 +653,7 @@ roll, you can use your reaction to force that creature to
 reroll. Once you use this ability, you can’t use it again
 until you roll initiative at the start of combat or until
 you finish a short or long rest.
+
 ## SQUAT NIMBLENESS
 *Prerequisite: Dwarf or a Small race*<br/>
 You are uncommonly nimble for your race. You gain the
@@ -649,6 +663,7 @@ following benefits:
 * You gain proficiency in the Acrobatics or Athletics
 skill (your choice). 
 * You have advantage on any Strength (Athletics) or Dexterity (Acrobatics) check you make to escape from being grappled.
+
 ## WOOD ELF MAGIC
 *Prerequisite: Elf(wood)*<br/>
 You learn the magic of the primeval woods, which are
