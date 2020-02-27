@@ -10,6 +10,7 @@ following benefits:
 * You can’t be surprised while you are conscious.
 * Other creatures don’t gain advantage on attack rolls
 against you as a result of being hidden from you.
+
 ## Athlete
 You have undergone extensive physical training to gain
 the following benefits:
@@ -21,6 +22,8 @@ your movement.
 * You can make a running long jump or a running high
 jump after moving only 5 feet on foot, rather than
 10 feet
+
+
 ## Actor
 Skilled at mimicry and dramatics, you gain the
 following benefits:
@@ -35,6 +38,7 @@ make the sound, for at least 1 minute. A successful
 Wisdom (Insight) check contested by your Charisma
 (Deception) check allows a listener to determine that
 the effect is faked.
+
 ## Charger
 When you use your action to Dash, you can use a
 bonus action to make one melee weapon attack or to
@@ -45,6 +49,7 @@ gain a +5 bonus to the attack’s damage roll (if you chose
 to make a melee attack and hit) or push the target up
 to 10 feet away from you (if you chose to shove and
 you succeed).
+
 ## Crossbow Expert
 Thanks to extensive practice with the crossbow , you
 gain the following benefits:
@@ -54,6 +59,7 @@ which you are proficient.
 im pose disadvantage on your ranged attack rolls.
 * When you use the Attack action and attack with a onehanded weapon, you 
 can use a bonus action to attack with a loaded hand crossbow you are holding.
+
 ## Defensive Duelist
 *Prerequisite: Dexterity 13 or higher*<br/>
 When you are wielding a finesse weapon with which
@@ -61,6 +67,7 @@ you are proficient and another creature hits you with
 a melee attack, you can use your reaction to add your
 proficiency bonus to your AC for that attack, potentially
 causing the attack to miss you.
+
 ## Dual Wielder
 You master fighting with two weapons, gaining the
 following benefits:
@@ -69,6 +76,7 @@ separate melee weapon in each hand.
 * You can use two-weapon fighting even when the onehanded melee weapons you are wielding aren’t light.
 * You can draw or stow two one-handed weapons when
 you would normally be able to draw or stow only one.
+
 ## Dungeon Delver
 * You have advantage on Wisdom (Perception) and
 Intelligence (Investigation) checks made to detect the
@@ -78,6 +86,7 @@ or resist traps.
 * You have resistance to the damage dealt by traps.
 * You can search for traps while traveling at a normal
 pace, instead of only at a slow pace.
+
 ## Durable
 * Increase your Constitution score by 1, to a
 maximum of 20.
@@ -85,6 +94,7 @@ maximum of 20.
 minimum number of hit points you regain from
 the roll equals twice your Constitution modifier
 (minimum of 2).
+
 ## Elemental Adept
 *Prerequisite: The ability to cast at least one spell*<br/>
 When you gain this feat, choose one of the following
@@ -95,6 +105,7 @@ spell you cast that deals damage of that type, you can
 treat any 1 on a damage die as a 2.<br/>
 You can select this feat multiple times. Each time
 you do so, you must choose a different damage type.
+
 ## Grappler
 You’ve developed the skills necessary to hold your
 own in close-quarters grappling. You gain the
@@ -105,6 +116,7 @@ you are grappling.
 so, make another grapple check. If you succeed, you and the creature are 
 both restrained until the grapple ends.
 * Creatures that are one size larger than you don’t automatically succeed on checks to escape your grapple.
+
 ## Great Weapon Master
 You’ve learned to put the weight of a weapon to your
 advantage, letting its momentum em power your strikes.
@@ -117,6 +129,7 @@ bonus action.
 that you are proficient with, you can choose to take a
 -5 penalty to the attack roll. If the attack hits, you add
 +10 to the attack’s damage.
+
 ## Healer
 You are an able physician, allowing you to mend wounds
 quickly and get your allies back in the fight. You gain the
@@ -128,12 +141,14 @@ tend to a creature and restore 1d6 + 4 hit points to it,
 plus additional hit points equal to the creature’s maximum number of Hit 
 Dice. The creature can’t regainhit points from this feat again until it 
 finishes a shortor long rest.
+
 ## Heavily Armored
 Prerequisite: Proficiency with medium armor
 You have trained to master the use of heavy armor,
 gaining the following benefits:
 * Increase your Strength score by 1, to a maximum of 20.
 * You gain proficiency with heavy armor.
+
 ## Heavy Armor Master
 *Prerequisite: Proficiency with heavy armor*<br/>
 You can use your armor to deflect strikes that would kill
@@ -142,6 +157,7 @@ others. You gain the following benefits:
 * While you are wearing heavy armor, bludgeoning,
 piercing, and slashing damage that you take from non
 magical weapons is reduced by 3.
+
 ## Inspring Leader
 *Prerequisite: Charisma 13 or higher*<br/>
 You can spend 10 minutes inspiring your companions,
@@ -152,6 +168,7 @@ can understand you. Each creature can gain temporary
 hit points equal to your level + your Charisma modifier.
 A creature can’t gain temporary hit points from this feat
 again until it has finished a short or long rest.
+
 ## Keen Mind
 You have a mind that can track time, direction,
 and detail with uncanny precision. You gain the
@@ -163,12 +180,14 @@ of 20.
 next sunrise or sunset.
 * You can accurately recall anything you have seen or
 heard within the past month.
+
 ## Lightly Armored
 You have trained to master the use of light armor,
 gaining the following benefits:
 * Increase your Strength or Dexterity score by 1, to a
 maximum of 20.
 * You gain proficiency with light armor.
+
 ## Linguist
 You have studied languages and codes, gaining the
 following benefits:
@@ -178,6 +197,7 @@ following benefits:
 succeed on an Intelligence check (DC equal to your
 Intelligence score + your proficiency bonus), or they
 use magic to decipher it.
+
 ## Lucky
 You have inexplicable luck that seem s to kick in at just
 the right moment.<br/>
@@ -196,6 +216,7 @@ influence the outcome of a roll, the points cancel each
 other out; no additional dice are rolled.
 You regain your expended luck points when you
 finish a long rest.
+
 ## Mage Slayer
 You have practiced techniques useful in melee combat
 against spellcasters, gaining the following benefits:
@@ -207,6 +228,7 @@ a spell, that creature has disadvantage on the saving
 throw it makes to maintain its concentration.
 * You have advantage on saving throws against spells
 cast by creatures within 5 feet of you.
+
 ## Magic Initiate
 Choose a class: bard, cleric, druid, sorcerer, warlock, or
 wizard. You learn two cantrips of your choice from that
@@ -219,6 +241,7 @@ Your spellcasting ability for these spells depends
 on the class you chose: Charisma for bard,
 sorcerer, or warlock; Wisdom for cleric or druid: or
 Intelligence for wizard.
+
 ## Martial Adept
 You have martial training that allows you to
 perform special combat maneuvers. You gain the
@@ -235,6 +258,7 @@ is a d6. This die is used to fuel your maneuvers. A
 superiority die is expended when you use it. You
 regain your expended superiority dice when you
 finish a short or long rest.
+
 ## Medium Armor Master
 Prerequisite: Proficiency with medium armor
 You have practiced moving in medium arm or to gain the
@@ -244,6 +268,7 @@ on your Dexterity (Stealth) checks.
 * When you wear medium armor, you can add 3,
 rather than 2, to your AC if you have a Dexterity of
 16 or higher.
+
 ## Mobile
 You are exceptionally speedy and agile. You gain the
 following benefits:
@@ -253,6 +278,7 @@ cost you extra movement on that turn.
 * When you make a melee attack against a creature, you
 don’t provoke opportunity attacks from that creature
 for the rest of the turn, whether you hit or not.
+
 ## Moderately Armored
 Prerequisite: Proficiency with light armor
 You have trained to master the use of medium armor
@@ -260,6 +286,7 @@ and shields, gaining the following benefits:
 * Increase your Strength or Dexterity score by 1, to a
 maximum of 20.
 * You gain proficiency with medium arm or and shields.
+
 ## Mounted Combatant
 You are a dangerous foe to face while mounted. While
 you are mounted and aren’t incapacitated, you gain the
@@ -270,6 +297,7 @@ unmounted creature that is sm aller than your mount.
 * If your mount is subjected to an effect that allows it to
 make a Dexterity saving throw to take only half damage, it instead takes no 
 damage if it succeeds on the saving throw, and only half damage if it fails.
+
 ## Observant
 Quick to notice details of your environment, you gain
 the following benefits:
@@ -281,6 +309,7 @@ saying by reading its lips.
 * You have a +5 bonus to your passive Wisdom
 (Perception) and passive Intelligence (Investigation)
 scores.
+
 ## Polearm Master
 You can keep your enem ies at bay with reach weapons.
 You gain the following benefits:
@@ -291,11 +320,13 @@ the weapon. The weapon’s damage die for this attack
 is a d4, and the attack deals bludgeoning damage.
 * While you are wielding a glaive, halberd, pike, or quarterstaff, other 
 creatures provoke an opportunity attack from you when they enter your reach.
+
 ## Resilient
 Choose one ability score. You gain the following benefits:
 * Increase the chosen ability score by 1, to a maximum
 of 20.
 * You gain proficiency in saving throws using the chosen ability.
+
 ## Ritual Caster
 Prerequisite: Intelligence or Wisdom 13 or higher
 You have learned a number of spells that you can cast as
@@ -321,10 +352,12 @@ spell, and costs 50 gp per level. The cost represents
 material components you expend as you experiment
 with the spell to master it, as well as the fine inks you
 need to record it.
+
 ## Savage Attacker
 Once per turn when you roll damage for a melee weapon
 attack, you can reroll the weapon’s damage dice and use
 either total.
+
 ## Sentinel
 You have mastered techniques to take advantage
 of every drop in any enemy’s guard, gaining the
@@ -339,6 +372,7 @@ action before leaving your reach.
 against a target other than you (and that target doesn’t
 have this feat), you can use your reaction to make a
 melee weapon attack against the attacking creature.
+
 ## Sharpshooter
 You have mastered ranged weapons and can make
 shots that others find im possible. You gain the
@@ -351,6 +385,7 @@ three-quarters cover.
 you are proficient with, you can choose to take a - 5
 penalty to the attack roll. If the attack hits, you add +10
 to the attack’s damage.
+
 ## Shield Master
 You use shields not just for protection but also for
 offense. You gain the following benefits while you are
@@ -366,9 +401,11 @@ make a Dexterity saving throw to take only half dam -
 age, you can use your reaction to take no damage if
 you succeed on the saving throw, interposing your
 shield between yourself and the source of the effect.
+
 ## Skilled
 You gain proficiency in any combination of three skills
 or tools of your choice.
+
 ## Skulker
 Prerequisite: Dexterity 13 or higher
 You are expert at slinking through shadows. You gain
@@ -380,6 +417,7 @@ a ranged weapon attack, making the attack doesn't
 reveal your position.
 * Dim light doesn’t im pose disadvantage on your
 Wisdom (Perception) checks relying on sight.
+
 ## Spell Sniper
 Prerequisite: The ability to cast at least one spell
 You have learned techniques to enhance your
@@ -394,6 +432,7 @@ Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or
 wizard spell list. Your spellcasting ability for this cantrip depends on 
 the spell list you chose from: Charisma for bard, sorcerer, or warlock;
 Wisdom for cleric or druid; or Intelligence for wizard.
+
 ## Tavern Brawler
 Accustomed to rough-and-tumble fighting using
 whatever weapons happen to be at hand, you gain the
@@ -406,11 +445,13 @@ unarmed strikes.
 * When you hit a creature with an unarm ed strike or an
 im provised weapon on your turn, you can use a bonus
 action to attempt to grapple the target.
+
 ## Tough
 Your hit point maximum increases by an amount equal
 to twice your level when you gain this feat. Whenever
 you gain a level thereafter, your hit point maximum
 increases by an additional 2 hit points.
+
 ## War Caster
 *Prerequisite: The ability to cast at least one spell*<br/>
 You have practiced casting spells in the midst of
@@ -426,6 +467,7 @@ both hands.
 opportunity attack from you, you can use your reaction to cast a spell at 
 the creature, rather than making an opportunity attack. The spell must have 
 a casting time of 1 action and must target only that creature.
+
 ## Weapon Master
 You have practiced extensively with a variety of
 weapons, gaining the following benefits:
