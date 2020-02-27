@@ -1,0 +1,14 @@
+---
+layout: default
+title: Races
+---
+<h1>Races</h1>
+
+<ul>
+  {% for race in site.races %}
+    <li>
+      <h2><a href="{{ race.url }}">{{ race.name }}</a></h2>
+      <!--<h3>{{ race.source }}</h3>-->
+    </li>
+  {% endfor %}
+</ul>

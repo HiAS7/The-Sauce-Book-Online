@@ -1,0 +1,567 @@
+I"�[<h2 id="barbarian">Barbarian</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Level</th>
+      <th>Proficiency Bonus</th>
+      <th>Features</th>
+      <th>Rages</th>
+      <th>Rage Damage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1st</td>
+      <td>+2</td>
+      <td><a href="#rage">Rage</a>, <a href="#unarmored-defense">Unarmored Defense</a></td>
+      <td>2</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>2nd</td>
+      <td>+2</td>
+      <td><a href="#reckless-attack">Reckless Attack</a>, <a href="#danger-sense">Danger Sense</a></td>
+      <td>2</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>3rd</td>
+      <td>+2</td>
+      <td><a href="#primal-path">Primal Path</a></td>
+      <td>3</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>+2</td>
+      <td>Ability Score Improvement</td>
+      <td>3</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>5th</td>
+      <td>+3</td>
+      <td>Extra Attack, <a href="#fast-movement">Fast Movement</a></td>
+      <td>3</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>6th</td>
+      <td>+3</td>
+      <td>Path feature</td>
+      <td>4</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>7th</td>
+      <td>+3</td>
+      <td><a href="#feral-instinct">Feral Instinct</a></td>
+      <td>4</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>8th</td>
+      <td>+3</td>
+      <td>Ability Score Improvement</td>
+      <td>4</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>9th</td>
+      <td>+4</td>
+      <td><a href="#brutal-critical">Brutal Critical (1 die)</a></td>
+      <td>4</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>10th</td>
+      <td>+4</td>
+      <td>Path feature</td>
+      <td>4</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>11th</td>
+      <td>+4</td>
+      <td><a href="#relentless-rage">Relentless Rage</a></td>
+      <td>4</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>12th</td>
+      <td>+4</td>
+      <td>Ability Score Improvement</td>
+      <td>5</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>13th</td>
+      <td>+5</td>
+      <td><a href="#brutal-critical">Brutal Critical (2 dice)</a></td>
+      <td>5</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>14th</td>
+      <td>+5</td>
+      <td>Path feature</td>
+      <td>5</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>15th</td>
+      <td>+5</td>
+      <td><a href="persistent-rage">Persistent Rage</a></td>
+      <td>5</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>16th</td>
+      <td>+5</td>
+      <td>Ability Score Improvement</td>
+      <td>5</td>
+      <td>+4</td>
+    </tr>
+    <tr>
+      <td>17th</td>
+      <td>+6</td>
+      <td><a href="#brutal-critical">Brutal Critical (3 dice)</a></td>
+      <td>6</td>
+      <td>+4</td>
+    </tr>
+    <tr>
+      <td>18th</td>
+      <td>+6</td>
+      <td><a href="#indomitable-might">Indomitable Might</a></td>
+      <td>6</td>
+      <td>+4</td>
+    </tr>
+    <tr>
+      <td>19th</td>
+      <td>+6</td>
+      <td>Ability Score Improvement</td>
+      <td>6</td>
+      <td>+4</td>
+    </tr>
+    <tr>
+      <td>20th</td>
+      <td>+6</td>
+      <td><a href="#primal-champion">Primal Champion</a></td>
+      <td>Unlimited</td>
+      <td>+4</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="class-features">Class features</h3>
+
+<h5 id="hit-points">Hit Points</h5>
+<p><strong>Hit Dice:</strong> 1d 12 per barbarian level<br />
+<strong>Hit Points at 1st Level:</strong> 12 + your Constitution modifier<br />
+<strong>Hit Points at Higher Levels:</strong> 1d 12 (or 7) + your
+Constitution modifier per barbarian level after 1st</p>
+<h5 id="proficiencies">Proficiencies</h5>
+<p><strong>Armor:</strong> Light armor, medium armor, shields<br />
+<strong>Weapons:</strong> Simple weapons, martial weapons<br />
+<strong>Tools:</strong> None<br />
+<strong>Saving Throws:</strong> Strength, Constitution<br />
+<strong>Skills:</strong> Choose two from Animal Handling, Athletics,
+Intimidation, Nature, Perception, and Survival</p>
+
+<h5 id="equipment">Equipment</h5>
+<p>You start with the following equipment, in addition to
+the equipment granted by your background:</p>
+<ul>
+  <li>(a) a greataxe or (b) any martial melee weapon</li>
+  <li>(a) two handaxes or (b) any simple weapon</li>
+  <li>An explorer’s pack and four javelins</li>
+</ul>
+
+<h4 id="rage">Rage</h4>
+<p>In battle, you fight with primal ferocity. On your turn,
+you can enter a rage as a bonus action.
+While raging, you gain the following benefits if you
+aren’t wearing heavy armor:</p>
+<ul>
+  <li>You have advantage on Strength checks and Strength
+saving throws.</li>
+  <li>When you make a melee weapon attack using
+Strength, you gain a bonus to the damage roll that
+increases as you gain levels as a barbarian, as shown
+in the Rage Damage column of the Barbarian table.</li>
+  <li>You have resistance to bludgeoning, piercing, and
+slashing damage.</li>
+</ul>
+
+<p>If you are able to cast spells, you can’t cast them or
+concentrate on them while raging.<br />
+Your rage lasts for 1 minute. It ends early if you are
+knocked unconscious or if your turn ends and you
+haven’t attacked a hostile creature since your last turn
+or taken damage since then. You can also end your rage
+on your turn as a bonus action.<br />
+Once you have raged the number of times shown
+for your barbarian level in the Rages column of the
+Barbarian table, you must finish a <strong>long rest</strong> before you
+can rage again.</p>
+
+<h4 id="unarmored-defense">Unarmored Defense</h4>
+<p>While you are not wearing any armor, your Arm or Class
+equals</p>
+<blockquote>
+  <p><strong>10 + your Dexterity modifier + your Constitution
+modifier.</strong></p>
+</blockquote>
+
+<p>You can use a shield and still gain this benefit.</p>
+
+<h4 id="reckless-attack">Reckless Attack</h4>
+<p>Starting at 2nd level, you can throw aside all concern
+for defense to attack with fierce desperation. <br />
+When you make your first attack on your turn, you can decide
+to attack recklessly. Doing so gives you advantage on
+melee weapon attack rolls using Strength during this
+turn, but attack rolls against you have advantage until
+your next turn.</p>
+
+<h4 id="danger-sense">Danger Sense</h4>
+<p>At 2nd level, you gain an uncanny sense of when things
+nearby aren’t as they should be, giving you an edge
+when you dodge away from danger.<br />
+You have advantage on Dexterity saving throws
+against effects that you can see, such as traps and spells.
+To gain this benefit, you can’t be blinded, deafened, or
+incapacitated.</p>
+
+<h4 id="primal-path">Primal Path</h4>
+<p>At 3rd level, you choose a path that shapes the nature of
+your rage.</p>
+<ul>
+  <li><a href="#path-of-the-berserker">Path of the Berserker</a></li>
+  <li><a href="#path-of-the-totem-warrior">Path of the Totem Warrior</a></li>
+  <li><a href="#path-of-the-ancestral-guardian">Path of the Ancestral Guardian</a></li>
+  <li><a href="#path-of-the-storm-herald">Path of the Storm Herald</a></li>
+  <li><a href="#path-of-the-zealot">Path of the Zealot</a></li>
+</ul>
+
+<p>Your choice grants you features at 3rd level and again at 6th, 10th, and 
+14th levels.</p>
+
+<h4 id="ability-score-improvement">Ability Score Improvement</h4>
+<p>When you reach 4th level, and again at 8th, 12th, 16th,
+and 19th level, you can increase one ability score of your
+choice by 2, or you can increase two ability scores of
+your choice by 1. As normal, you can’t increase an ability
+score above 20 using this feature.</p>
+
+<h4 id="extra-attack">Extra Attack</h4>
+<p>Beginning at 5th level, you can attack twice, instead of
+once, whenever you take the Attack action on your turn.</p>
+
+<h4 id="feral-instinct">Feral Instinct</h4>
+<p>By 7th level, your instincts are so honed that you have
+advantage on initiative rolls.
+Additionally, if you are surprised at the beginning of
+combat and aren’t incapacitated, you can act normally
+on your first turn, but only if you enter your rage before
+doing anything else on that turn.</p>
+
+<h4 id="brutal-critical">Brutal Critical</h4>
+<p>Beginning at 9th level, you can roll one additional
+weapon damage die when determining the extra
+damage for a critical hit with a melee attack.
+This increases to two additional dice at 13th level
+and three additional dice at 17th level</p>
+
+<h4 id="relentless-rage">Relentless Rage</h4>
+<p>Starting at 11th level, your rage can keep you fighting
+despite grievous wounds. If you drop to 0 hit points
+while you’re raging and don’t die outright, you can make
+a DC 10 Constitution saving throw. If you succeed, you
+drop to 1 hit point instead.
+Each time you use this feature after the first, the DC
+increases by 5. When you finish a short or long rest, the
+DC resets to 10.</p>
+
+<h4 id="persistent-rage">Persistent Rage</h4>
+<p>Beginning at 15th level, your rage is so fierce that
+it ends early only if you fall unconscious or if you
+choose to end it.</p>
+
+<h4 id="indomitable-might">Indomitable Might</h4>
+<p>Beginning at 18th level, if your total for a Strength
+check is less than your Strength score, you can use that
+score in place of the total.</p>
+
+<h4 id="primal-champion">Primal Champion</h4>
+<p>At 20th level, you em body the power of the wilds. Your
+Strength and Constitution scores increase by 4. Your
+maximum for those scores is now 24.</p>
+
+<h3 id="primal-paths">Primal Paths</h3>
+
+<h4 id="path-of-the-berserker">Path of the Berserker</h4>
+<p>For some barbarians, rage is a means to an end - that
+end being violence. The Path of the Berserker is a path
+of untrammeled fury, slick with blood. As you enter
+the berserker’s rage, you thrill in the chaos of battle,
+heedless of your own health or well-being.</p>
+<h5 id="frenzy">Frenzy</h5>
+<p>Starting when you choose this path at 3rd level, you
+can go into a frenzy when you rage. If you do so, for
+the duration of your rage you can make a single melee
+weapon attack as a bonus action on each of your turns
+after this one. when your rage ends, you suffer one level
+of exhaustion.</p>
+<h5 id="mindless-rage">Mindless Rage</h5>
+<p>Beginning at 6th level, you can’t be charmed or
+frightened while raging. If you are charmed or
+frightened when you enter your rage, the effect is
+suspended for the duration of the rage.</p>
+<h5 id="intimidating-presence">Intimidating Presence</h5>
+<p>Beginning at 10th level, you can use your action to
+frighten someone with your menacing presence.
+W en you do so, choose one creature that you can see
+within 30 feet of you. If the creature can see or hear
+you, it must succeed on a Wisdom saving throw (DC
+equal to 8 + your proficiency bonus + your Charisma
+modifier) or be frightened of you until the end of your
+next turn. On subsequent turns, you can use your action
+to extend the duration of this effect on the frightened
+creature until the end of your next turn. This effect ends
+if the creature ends its turn out of line of sight or more
+than 60 feet away from you.
+If the creature succeeds on its saving throw, you can’t
+use this feature on that creature again for 24 hours.</p>
+<h5 id="retaliation">Retaliation</h5>
+<p>Starting at 14th level, when you take damage from
+a creature that is within 5 feet of you. you can use
+your reaction to make a melee weapon attack against
+that creature.</p>
+
+<h4 id="path-of-the-totem-warrior">Path of the Totem Warrior</h4>
+<p>The Path of the Totem Warrior is a spiritual journey, as
+the barbarian accepts a spirit animal as guide, protector,
+and inspiration. In battle, your totem spirit fills you
+with supernatural might, adding magical fuel to your
+barbarian rage.<br />
+Most barbarian tribes consider a totem animal to be
+kin to a particular clan. In such cases, it is unusual for
+an individual to have more than one totem animal spirit,
+though exceptions exist.</p>
+<h5 id="spirit-seeker">Spirit Seeker</h5>
+<p>Yours is a path that seeks attunement with the natural
+world, giving you a kinship with beasts.<br />
+At 3rd level when you adopt this path, you gain the ability to 
+cast the beast sense and speak with animals spells, but only as 
+rituals, as described in chapter 10.</p>
+<h5 id="totem-spirit">Totem Spirit</h5>
+<p>At 3rd level, when you adopt this path, you choose a
+totem spirit and gain its feature. You must make or
+acquire a physical totem object- an amulet or similar
+adornment—that incorporates fur or feathers, claws,
+teeth, or bones of the totem animal. At your option, you
+also gain minor physical attributes that are reminiscent
+of your totem spirit. For example, if you have a bear
+totem spirit, you might be unusually hairy and thickskinned, or 
+if your totem is the eagle, your eyes turn bright yellow.
+Your totem animal might be an animal related to those
+listed here but more appropriate to your homeland.
+For example, you could choose a hawk or vulture in
+place of an eagle.</p>
+<ul>
+  <li>Bear. While raging, you have resistance to all damage
+except psychic damage. The spirit of the bear makes you
+tough enough to stand up to any punishment.</li>
+  <li>Eagle. While you’re raging and aren’t wearing
+heavy armor, other creatures have disadvantage on
+opportunity attack rolls against you, and you can use the
+Dash action as a bonus action on your turn. The spirit
+of the eagle makes you into a predator who can weave
+through the fray with ease.</li>
+  <li>Wolf, While you’re raging, your friends have
+advantage on melee attack rolls against any creature
+within 5 feet of you that is hostile to you. The spirit of
+the wolf makes you a leader of hunters.
+    <h5 id="aspect-of-the-beast">Aspect of the Beast</h5>
+    <p>At 6th level, you gain a magical benefit based on the
+totem animal of your choice. You can choose the same
+animal you selected at 3rd level or a different one.</p>
+  </li>
+  <li>Bear. You gain the might of a bear. Your carrying
+capacity (including maximum load and maximum lift)
+is doubled, and you have advantage on Strength checks
+made to push, pull, lift, or break objects.</li>
+  <li>Eagle. You gain the eyesight of an eagle. You can
+see up to 1 mile away with no difficulty, able to discern
+even fine details as though looking at something no
+more than 100 feet away from you. Additionally, dim
+light doesn’t im pose disadvantage on your Wisdom
+(Perception) checks.</li>
+  <li>Wolf, You gain the hunting sensibilities of a wolf. You
+can track other creatures while traveling at a fast pace,
+and you can move stealthily while traveling at a normal
+pace (see chapter 8 for rules on travel pace).
+    <h5 id="spirit-walker">Spirit Walker</h5>
+    <p>At 10th level, you can cast the commune with nature
+spell, but only as a ritual. When you do so, a spiritual
+version of one of the animals you chose for Totem Spirit
+or Aspect of the Beast appears to you to convey the
+information you seek.</p>
+    <h5 id="totemic-attunement">Totemic Attunement</h5>
+    <p>At 14th level, you gain a magical benefit based on a
+totem animal of your choice. You can choose the same
+animal you selected previously or a different one.</p>
+  </li>
+  <li>Bear. While you’re raging, any creature within 5 feet
+of you that’s hostile to you has disadvantage on attack
+rolls against targets other than you or another character
+with this feature. An enemy is im mune to this effect if it
+can’t see or hear you or if it can’t be frightened.</li>
+  <li>Eagle. While raging, you have a flying speed equal to
+your current walking speed. This benefit works only in
+short bursts; you fall if you end your turn in the air and
+nothing else is holding you aloft.</li>
+  <li>Wolf. While you’re raging, you can use a bonus action
+on your turn to knock a Large or sm aller creature prone
+when you hit it with melee weapon attack.</li>
+</ul>
+
+<h4 id="path-of-the-ancestral-guardian">Path of the Ancestral Guardian</h4>
+<h5 id="ancestral-protectors">Ancestral Protectors</h5>
+<p>Starting when you choose this path at 3rd level, spectral
+warriors appear when you enter your rage. While you’re
+raging, the first creature you hit with an attack on your
+turn becomes the target of the warriors, which hinder
+its attacks. Until the start of your next turn, that target
+has disadvantage on any attack roll that isn’t against
+you, and when the target hits a creature other than you
+with an attack, that creature has resistance to the dam—
+age dealt by the attack. The effect on the target ends
+early ifyour rage ends.</p>
+<h5 id="spirit-shield">Spirit Shield</h5>
+<p>Beginning at 6th level, the guardian spirits that aid you
+can provide supernatural protection to those you de—
+fend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your
+reaction to reduce that damage by 2d6.
+When you reach certain levels in this class. you can
+reduce the damage by more: by 3d6 at 10th level and by
+4d6 at 14th level.</p>
+<h5 id="consult-the-spirits">Consult the Spirits</h5>
+<p>At 10th level, you gain the ability to consult with your
+ancestral spirits. When you do so, you cast the augury or clairvoyance spell, without using a spell slot or material
+components. Rather than creating a spherical sensor,
+this use of clairvoyance invisibly summons one Of your
+ancestral spirits to the chosen location. Wisdom is your
+spellcasting ability for these spells.
+After you cast either spell in this way, you can’t use
+this feature again until you finish a short or long rest.</p>
+<h5 id="vengeful-ancestors">Vengeful Ancestors</h5>
+<p>At 14th level, your ancestral spirits grow powerful
+enough to retaliate. When you use your Spirit Shield to
+reduce the damage of an attack, the attacker takes an amount of force damage equal to the damage that your
+Spirit Shield prevents.</p>
+
+<h4 id="path-of-the-storm-herald">Path of the Storm Herald</h4>
+<h5 id="storm-aura">STORM AURA</h5>
+<p>Starting at 3rd level, you emanate a stormy, magical aura while you rage. The aura extends 10 feet from you
+in every direction, but not through total cover. Your aura has an effect that activates when you enter
+your rage, and you can activate the effect again on each
+of your turns as a bonus action. Choose desert, sea, or
+tundra. Your aura’s effect depends on that chosen environment, as detailed below. You can change your environment choice whenever you gain a level in this class.<br />
+If your aura’s effects require a saving throw, the DC
+equals <strong>8 + your proficiency bonus + your Constitution modifier</strong>. <br />
+<strong>Desert.</strong> When this effect is activated, all other crea—
+tures in your aura take 2 fire damage each. The damage
+increases when you reach certain levels in this class, in—
+creasing to 3 at 5th level, 4 at 10th level, 5 at 15th level,
+and 6 at 20th level.<br />
+<strong>Sea.</strong> When this effect is activated, you can choose one
+other creature you can see in your aura. The target must
+make a Dexterity saving throw. The target takes 1d6
+lightning damage on a failed save, or half as much damage on a successful 
+one. The damage increases when you reach certain levels in this class, 
+increasing to 2d6 at 10th level, 3d6 at 15th level, and 4d6 at 20th level.<br />
+<strong>Tundra.</strong> When this effect is activated, each creature of
+your choice in your aura gains 2 temporary hit points, as
+icy spirits inure it to suffering. The temporary hit points
+increase when you reach certain levels in this class, increasing to 3 at 5th level, 4 at 10th level, 5 at 15th level,
+and 6 at 20th level.</p>
+<h5 id="storm-soul">STORM SOUL</h5>
+<p>At 6th level, the storm grants you benefits even when
+your aura isn’t active. The benefits are based on the en—
+vironment you chose for your Storm Aura.<br />
+<strong>Desert.</strong> You gain resistance to fire damage, and you
+don’t suffer the effects of extreme heat, as described in
+the Dungeon Master’s Guide. Moreover, as an action,
+you can touch a flammable object that isn’t being worn or carried by anyone else and set it on fire.<br />
+<strong>Sea.</strong> You gain resistance to lightning damage, and
+you can breathe underwater. You also gain a swimming
+speed of 30 feet.<br />
+<strong>Tundra.</strong> You gain resistance to cold damage, and you
+don’t suffer the effects of extreme cold, as described in
+the Dungeon Master’s Guide. Moreover, as an action,
+you can touch water and turn a 5-foot cube Of it into ice,
+which melts after 1 minute. This action fails if a creature
+is in the cube.</p>
+<h5 id="shielding-storm">SHIELDING STORM</h5>
+<p>At 10th level, you learn to use your mastery of the storm
+to protect others. Each creature of your choice has the
+damage resistance you gained from the Storm Soul fea
+ture while the creature is in your Storm Aura. *</p>
+<h5 id="raging-storm">RAGING STORM</h5>
+<p>At 14th level, the power of the storm you channel grows
+mightier, lashing out at your foes. The effect is based on
+the environment you chose for your Storm Aura.<br />
+<strong>Desert.</strong> Immediately after a creature in your aura hits
+you with an attack, you can use your reaction to force
+that creature to make a Dexterity saving throw. On a
+failed save, the creature takes fire damage equal to half
+your barbarian level.<br />
+<strong>Sea.</strong> When you hit a creature in your aura with an
+attack, you can use your reaction to force that creature
+to make a Strength saving throw. On a failed save, the
+creature is knocked prone, as if struck by a wave. <br />
+<strong>Tundra.</strong> Whenever the effect of your Storm Aura is activated, you can 
+choose one creature you can see in the aura. That creature must succeed on 
+a Strength savingthrow, or its speed is reduced to 0 until the start of 
+yournext turn, as magical frost covers it.</p>
+
+<h4 id="path-of-the-zealot">Path of the Zealot</h4>
+<h5 id="divine-fury">DIVINE FURY</h5>
+<p>Starting when you choose this path at 3rd level, you can
+channel divine fury into your weapon strikes. While
+you’re raging, the first creature you hit on each of your
+turns with a weapon attack takes extra damage equal
+to 1d6 + half your barbarian level. The extra damage is
+necrotic or radiant; you choose the type of damage when
+you gain this feature.</p>
+<h5 id="warrior-of-the-gods">WARRIOR OF THE GODS</h5>
+<p>At 3rd level, your soul is marked for endless battle. If a
+spell, such as raise dead, has the sole effect of restoring
+you to life (but not uncleath), the caster doesn’t need material components to cast the spell on you.</p>
+<h5 id="fanatical-focus">FANATICAL FOCUS</h5>
+<p>Starting at 6th level, the divine power that fuels your
+rage can protect you. If you fail a saving throw while
+you’re raging, you can reroll it, and you must use the
+new roll. You can use this ability only once per rage.</p>
+<h5 id="zealous-presence">ZEALOUS PRESENCE</h5>
+<p>At 10th level, you learn to channel divine power to inspire zealotry in 
+others. As a bonus action, you unleasha battle cry infused with divine 
+energy. Up to ten othercreatures of your choice within 60 feet of you that 
+canhear you gain advantage on attack rolls and savingthrows until the 
+start of your next turn.<br />
+Once you use this feature, you can’t use it again until
+you finish a long rest.</p>
+<h5 id="rage-beyond-death">RAGE BEYOND DEATH</h5>
+<p>Beginning at 14th level, the divine power that fuels your
+rage allows you to shrug off fatal blows.<br />
+While you’re raging, having 0 hit points doesn’t knock
+you unconscious. You still must make death saving
+throws, and you suffer the normal effects of taking
+damage while at 0 hit points. However, if you would die
+due to failing death saving throws, you don”t die until
+your rage ends, and you die then only if you still have 0
+hit points.</p>
+:ET

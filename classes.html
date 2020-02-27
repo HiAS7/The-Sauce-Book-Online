@@ -1,0 +1,13 @@
+---
+layout: default
+title: Classes
+---
+<h1>Classes</h1>
+
+<ul>
+  {% for class in site.classes %}
+    <li>
+      <h2><a href="{{ class.url }}">{{ class.name }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>
