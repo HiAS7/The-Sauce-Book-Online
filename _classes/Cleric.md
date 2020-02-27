@@ -29,15 +29,15 @@ name: Cleric
 ### Class features
 
 ##### Hit Points
-**Hit Dice:** 1d8 per cleric level\
-**Hit Points at 1st Level:** 8 + your Constitution modifier\
+**Hit Dice:** 1d8 per cleric level<br/>
+**Hit Points at 1st Level:** 8 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d8 (or 5) + your
 Constitution modifier per cleric level after 1st
 ##### Proficiencies
-**Armor:** Light armor, medium armor, shields\
-**Weapons:** All simple weapons\
-**Tools:** None\
-**Saving Throws:** Wisdom, Charisma\
+**Armor:** Light armor, medium armor, shields<br/>
+**Weapons:** All simple weapons<br/>
+**Tools:** None<br/>
+**Saving Throws:** Wisdom, Charisma<br/>
 **Skills:** Choose two from History, Insight, Medicine,
 Persuasion, and Religion
 ##### Equipment
@@ -63,13 +63,13 @@ The Cleric table shows how many spell slots you have
 to cast your spells of 1st level and higher. To cast one of
 these spells, you must expend a slot of the spell’s level
 or higher. You regain all expended spell slots when you
-finish a long rest.\
+finish a long rest.<br/>
 You prepare the list of cleric spells that are available
 for you to cast, choosing from the cleric spell list. when
 you do so, choose a number of cleric spells equal to
 your Wisdom modifier + your cleric level (minimum of
 one spell). The spells must be of a level for which you
-have spell slots.\
+have spell slots.<br/>
 For example, if you are a 3rd-level cleric, you have four
 1st-level and two 2nd-level spell slots. With a Wisdom
 of 16, your list of prepared spells can include six spells
@@ -90,7 +90,7 @@ your Wisdom modifier when setting the saving throw
 DC for a cleric spell you cast and when making an
 attack roll with one.
 > **Spell save DC** = 8 + your proficiency bonus +
-your Wisdom modifier\
+your Wisdom modifier<br/>
 **Spell attack modifier** = your proficiency bonus +
 your Wisdom modifier
 
@@ -220,12 +220,12 @@ proficiency with the chosen skill or tool.
 ##### Channel Divinity: Read Thoughts
 At 6th level, you can use your Channel Divinity to read a
 creature’s thoughts. You can then use your access to the
-creature’s mind to command it.\
+creature’s mind to command it.<br/>
 As an action, choose one creature that you can see
 within 60 feet of you. That creature must make a
 Wisdom saving throw. If the creature succeeds on the
 saving throw, you can’t use this feature on it again until
-you finish a long rest.\
+you finish a long rest.<br/>
 If the creature fails its save, you can read its surface
 thoughts (those forem ost in its mind, reflecting its
 current emotions and what it is actively thinking
@@ -241,7 +241,7 @@ the damage you deal with any cleric cantrip.
 ##### Visions of the Past
 Starting at 17th level, you can call up visions of the
 past that relate to an object you hold or your immediate
-surroundings.\
+surroundings.<br/>
 You spend at least 1 minute in meditation
 and prayer, then receive dreamlike, shadowy glimpses
 of recent events. You can meditate in this way for a
@@ -249,7 +249,7 @@ number of minutes equal to your Wisdom score and
 must maintain concentration during that time, as if you
 were casting a spell.
 Once you use this feature, you can’t use it again until
-you finish a short or long rest.\
+you finish a short or long rest.<br/>
 **Object Reading.** Holding an object as you meditate,
 you can see visions of the object’s previous owner.
 After meditating for 1 minute, you learn how the owner
@@ -259,7 +259,7 @@ If the object was ow ned by another creature in the
 recent past (within a number of days equal to your
 Wisdom score), you can spend 1 additional minute
 for each owner to learn the same information about
-that creature.\
+that creature.<br/>
 **Area Reading.** As you meditate, you see visions
 of recent events in your immediate vicinity (a room,
 street, tunnel, clearing, or the like, up to a 50-foot cube),
@@ -303,7 +303,7 @@ to restore hit points to a creature, the creature regains
 additional hit points equal to 2 + the spell’s level.
 ##### Channel Divinity: Preserve Life
 Starting at 2nd level, you can use your Channel Divinity
-to heal the badly injured.\
+to heal the badly injured.<br/>
 As an action, you present your holy symbol and
 evoke healing energy that can restore a number of hit
 points equal to five times your cleric level. Choose any
@@ -352,14 +352,14 @@ by a creature within 30 feet of you that you can see,
 you can use your reaction to im pose disadvantage on
 the attack roll, causing light to flare before the attacker
 before it hits or misses. An attacker that can’t be blinded
-is immune to this feature.\
+is immune to this feature.<br/>
 You can use this feature a number of times equal to
 your Wisdom modifier (a minimum of once). You regain
 all expended uses when you finish a long rest.
 ##### Channel Divinity: Radiance of the Dawn
 Starting at 2nd level, you can use your Channel Divinity
 to harness sunlight, banishing darkness and dealing
-radiant damage to your foes.\
+radiant damage to your foes.<br/>
 As an action, you present your holy symbol, and any
 magical darkness within 30 feet of you is dispelled.
 Additionally, each hostile creature within 30 feet of
@@ -402,7 +402,7 @@ your choice: Animal Handling, Nature, or Survival.
 Also at 1st level, you gain proficiency with heavy armor.
 ##### Channel Divinity: Charm Animals and Plants
 Starting at 2nd level, you can use your Channel Divinity
-to charm animals and plants.\
+to charm animals and plants.<br/>
 As an action, you present your holy symbol and invoke
 the name of your deity. Each beast or plant creature that
 can see you within 30 feet of you must make a Wisdom
@@ -444,13 +444,13 @@ Cleric Level |Spells
 At 1st level, you gain proficiency with martial weapons
 and heavy armor.
 ##### Wrath of the Storm
-Also at 1st level, you can thunderously rebuke attackers.\
+Also at 1st level, you can thunderously rebuke attackers.<br/>
 When a creature within 5 feet of you that you can see
 hits you with an attack, you can use your reaction to
 cause the creature to make a Dexterity saving throw.
 The creature takes 2d8 lightning or thunder damage
 (your choice) on a failed saving throw, and half as much
-damage on a successful one.\
+damage on a successful one.<br/>
 You can use this feature a number of times equal to
 your Wisdom modifier (a minim um of once). You regain
 all expended uses when you finish a long rest.
@@ -495,7 +495,7 @@ checks. This blessing lasts for 1 hour or until you use
 this feature again.
 ##### Channel Divinity: Invoke Duplicity
 Starting at 2nd level, you can use your Channel Divinity
-to create an illusory duplicate of yourself.\
+to create an illusory duplicate of yourself.<br/>
 As an action, you create a perfect illusion of
 yourself that lasts for 1 minute, or until you lose your
 concentration (as if you were concentrating on a spell).
@@ -511,7 +511,7 @@ you have advantage on attack rolls against that creature,
 given how distracting the illusion is to the target.
 ##### Channel Divinity: Cloak of Shadows
 Starting at 6th level, you can use your Channel
-Divinity to vanish.\
+Divinity to vanish.<br/>
 As an action, you become invisible until the end of your
 next turn. You become visible if you attack or cast a spell.
 ##### Divine Strike
@@ -544,15 +544,15 @@ At 1st level, you gain proficiency with martial weapons
 and heavy armor.
 ##### War Priest
 From 1st level, your god delivers bolts of inspiration to
-you while you are engaged in battle.\
+you while you are engaged in battle.<br/>
 When you use the Attack action, you can make one 
-weapon attack as a bonus action.\
+weapon attack as a bonus action.<br/>
 You can use this feature a number of times equal to
 your Wisdom modifier (a minimum of once). You regain
 all expended uses when you finish a long rest.
 ##### Channel Divinity: Guided Strike
 Starting at 2nd level, you can use your Channel Divinity
-to strike with supernatural accuracy.\
+to strike with supernatural accuracy.<br/>
 When you make an attack roll, you can use your 
 Channel Divinity to gain a +10 bonus to the roll.
 You make this choice after yousee the roll, 
@@ -595,24 +595,24 @@ a weapon or armor. At the end of a long rest, you can
 touch one nonmagical object that is a suit of armor or a simple or martial 
 weapon. Until the end of your next long rest or until you die, the object 
 becomes a magicitem, granting a +1 bonus to AC if it’s armor or a +1 bonus 
-to attack and damage rolls if it’s a weapon.\
+to attack and damage rolls if it’s a weapon.<br/>
 Once you use this feature, you can’t use it again until
 you finish a long rest.
 ##### CHANNEL DIVINITY: ARTISAN‘S BLESSING
 Starting at 2nd level, you can use your Channel Divinity
-to create simple items.\
+to create simple items.<br/>
 You conduct an hour—long ritual that crafts a nonmagi—
 cal item that must include some metal: a simple or martial weapon, a suit 
 of armor, ten pieces of ammunition, a set of tools, or another metal 
 Object. The creation is completed at the end of the
 hour, coalescing in an unoccupied space of your choice
-on a surface within 5 feet of you.\
+on a surface within 5 feet of you.<br/>
 The thing you create can be something that is worth
 no more than 100 gp. As part of this ritual, you must lay
 out metal, which can include coins, with a value equal
 to the creation. The metal irretrievably coalesces and
 transforms into the creation at the ritual’s end, magically forming even 
-nonmetal parts of the creation.\
+nonmetal parts of the creation.<br/>
 The ritual can create a duplicate of a nonmagical item
 that contains metal, such as a key, if you possess the
 original during the ritual.
@@ -651,7 +651,7 @@ lst|bane, false life
 At 1st level, you gain the ability to manipulate the line
 between life and death. When you would normally roll one or more dice to restore hit points with a spell to
 a creature at 0 hit points, you instead use the highest
-number possible for each die.\
+number possible for each die.<br/>
 In addition, you learn the spare the dying cantrip,
 which doesn’t count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and
 you can cast it as a bonus action.
@@ -663,7 +663,7 @@ awareness to magically detect undead. Until the end
 of your next turn, you know the location of any undead
 within 60 feet of you that isn’t behind total cover and
 that isn’t protected from divination magic. This sense
-doesn’t tell you anything about a creature's capabilities or identity.\
+doesn’t tell you anything about a creature's capabilities or identity.<br/>
 You can use this feature a number of times equal to
 your Wisdom modifier (minimum of once). You regain
 all expended uses when you finish a long rest.
@@ -679,7 +679,7 @@ curse ends.
 At 6th level, you gain the ability to impede death’s progress. As a 
 reaction when you or a creature you can see within 30 feet of you suffers 
 a critical hit, you can turn that hit into a normal hit. Any effects 
-triggered by a critical hit are canceled.\
+triggered by a critical hit are canceled.<br/>
 You can use this feature a number of times equal to
 your Wisdom modifier (minimum of once). You regain
 all expended uses when you finish a long rest.

@@ -28,15 +28,15 @@ name: Paladin
 
 ### Class features
 ##### Hit Points
-**Hit Dice:** 1d10 per paladin level\
-**Hit Points at 1st Level:** 10 + your Constitution modifier\
+**Hit Dice:** 1d10 per paladin level<br/>
+**Hit Points at 1st Level:** 10 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d 10 (or 6) + your
 Constitution modifier per paladin level after 1st
 ##### Proficiencies
-**Armor:** All armor, shields\
-**Weapons:** Simple weapons, martial weapons\
-**Tools:** None\
-**Saving Throws:** Wisdom , Charisma\
+**Armor:** All armor, shields<br/>
+**Weapons:** Simple weapons, martial weapons<br/>
+**Tools:** None<br/>
+**Saving Throws:** Wisdom , Charisma<br/>
 **Skills:** Choose two from Athletics, Insight, Intimidation,
 Medicine, Persuasion, and Religion
 ##### Equipment
@@ -60,7 +60,7 @@ any being whose presence you sense, but not its identity
 (the vampire Count Strahd von Zarovich, for instance).
 Within the same radius, you also detect the presence
 of any place or object that has been consecrated or
-desecrated, as with the hallow spell.\
+desecrated, as with the hallow spell.<br/>
 You can use this feature a num ber of times equal to
 1 + your Charisma modifier. When you finish a long rest,
 you regain all expended uses.
@@ -68,17 +68,17 @@ you regain all expended uses.
 Your blessed touch can heal wounds. You have a pool
 of healing power that replenishes when you take a long
 rest. With that pool, you can restore a total number of
-hit points equal to your paladin level x 5.\
+hit points equal to your paladin level x 5.<br/>
 As an action, you can touch a creature and draw
 power from the pool to restore a num ber of hit points
 to that creature, up to the maximum amount remaining
-in your pool.\
+in your pool.<br/>
 Alternatively, you can expend 5 hit points from your
 pool of healing to cure the target of one disease or
 neutralize one poison affecting it. You can cure multiple
 diseases and neutralize multiple poisons with a single
 use of Lay on Hands, expending hit points separately
-for each one.\
+for each one.<br/>
 This feature has no effect on undead and constructs.
 #### <a id="fighting-style-paladin"></a>Fighting Style
 At 2nd level, you adopt a style of fighting as your
@@ -112,7 +112,7 @@ The Paladin table shows how many spell slots you have
 to cast your spells. To cast one of your paladin spells of
 1st level or higher, you must expend a slot of the spell’s
 level or higher. You regain all expended spell slots when
-you finish a long rest.\
+you finish a long rest.<br/>
 You prepare the list of paladin spells that are available
 for you to cast, choosing from the paladin spell list.
 When you do so, ch oose a num ber of paladin spells equal 
@@ -139,7 +139,7 @@ use your Charisma modifier when setting the saving
 throw DC for a paladin spell you cast and when making
 an attack roll with one.
 >**Spell save DC** = 8 + your proficiency bonus +
-your Charisma modifier\
+your Charisma modifier<br/>
 **Spell attack modifier** = your proficiency bonus +
 your Charisma modifier
 ##### Spellcasting Focus
@@ -204,12 +204,12 @@ Starting at 6th level, whenever you or a friendly creature
 within 10 feet of you must make a saving throw, the
 creature gains a bonus to the saving throw equal to your
 Charisma modifier (with a minim um bonus of +1). You
-must be conscious to grant this bonus.\
+must be conscious to grant this bonus.<br/>
 At 18th level, the range of this aura increases to 30 feet.
 #### Aura of Courage
 Starting at 10th level, you and friendly creatures
 within 10 feet of you can’t be frightened while you
-are conscious.\
+are conscious.<br/>
 At 18th level, the range of this aura increases to 30 feet.
 #### Improved Divine Smite
 By 11th level, you are so suffused with righteous
@@ -222,7 +222,7 @@ Divine Smite.
 #### Cleansing Touch
 Beginning at 14th level, you can use your action to
 end one spell on yourself or on one willing creature
-that you touch.\
+that you touch.<br/>
 You can use this feature a number of times equal
 to your Charisma modifier (a minim um of once). You
 regain expended uses when you finish a long rest.
@@ -233,17 +233,17 @@ regain expended uses when you finish a long rest.
 
 ##### Tenets of Devotion
 Though the exact words and strictures of the Oath of
-Devotion vary, paladins of this oath share these tenets.\
+Devotion vary, paladins of this oath share these tenets.<br/>
 **Honesty.** Don’t lie or cheat. Let your word be
-your promise.\
-**Courage.** Never fear to act, though caution is wise.\
+your promise.<br/>
+**Courage.** Never fear to act, though caution is wise.<br/>
 **Compassion.** Aid others, protect the weak, and
 punish those who threaten them. Show mercy to your
-foes, but temper it with wisdom.\
+foes, but temper it with wisdom.<br/>
 **Honor.** Treat others with fairness, and let your
 honorable deeds be an example to them. Do as
 much good as possible while causing the least
-amount of harm.\
+amount of harm.<br/>
 **Duty.** Be responsible for your actions and their
 consequences, protect those entrusted to your care,
 and obey those who have just authority over you.
@@ -261,7 +261,7 @@ Paladin Level |Spells
 
 ##### Channel Divinity
 When you take this oath at 3rd level, you gain the
-following two Channel Divinity options.\
+following two Channel Divinity options.<br/>
 **Sacred Weapon.** As an action, you can imbue one
 weapon that you are holding with positive energy,
 using your Channel Divinity. For 1 minute, you add
@@ -269,7 +269,7 @@ your Charisma modifier to attack rolls made with that
 weapon (with a minimumbonus of +1). The weapon also
 emits bright light in a 20-foot radius and dim light 20
 feet beyond that. If the weapon is not already magical, it
-becomes magical for the duration.\
+becomes magical for the duration.<br/>
 You can end this effect on your turn as part of any
 other action. If you are no longer holding or carrying
 this weapon, or if you fall unconscious, this effect ends.
@@ -279,7 +279,7 @@ undead, using your Channel Divinity. Each fiend or
 undead that can see or hear you within 30 feet of you
 must make a Wisdom saving throw. If the creature
 fails its saving throw, it is turned for 1 minute or until
-it takes damage.\
+it takes damage.<br/>
 A turned creature must spend its turns trying to move
 as far away from you as it can, and it can’t willingly
 move to a space within 30 feet of you. It also can’t take 
@@ -298,11 +298,11 @@ of a protection from evil and good spell.
 ##### Holy Nimbus
 At 20th level, as an action, you can emanate an aura of
 sunlight. For 1 minute, bright light shines from you in a
-30-foot radius, and dim light shines 30 feet beyond that.\
+30-foot radius, and dim light shines 30 feet beyond that.<br/>
 Whenever an enemy creature starts its turn in the
-bright light, the creature takes 10 radiant damage.\
+bright light, the creature takes 10 radiant damage.<br/>
 In addition, for the duration, you have advantage on
-saving throws against spells cast by fiends or undead.\
+saving throws against spells cast by fiends or undead.<br/>
 Once you use this feature, you can’t use it again until
 you finish a long rest.
 
@@ -312,17 +312,17 @@ you finish a long rest.
 The tenets of the Oath of the Ancients have been
 preserved for uncounted centuries. This oath
 emphasizes the principles of good above any concerns
-of law or chaos. Its four central principles are simple.\
+of law or chaos. Its four central principles are simple.<br/>
 **Kindle the Light.** Through your acts of mercy,
 kindness, and forgiveness, kindle the light of hope in the
-world, beating back despair.\
+world, beating back despair.<br/>
 **Shelter the Light.** Where there is good, beauty, love,
 and laughter in the world, stand against the wickedness
 that would sw allow it. Where life flourishes, stand
-against the forces that would render it barren.\
+against the forces that would render it barren.<br/>
 **P reserve Your Own Light.** Delight in song and
 laughter, in beauty and art. If you allow the light to die in
-your own heart, you can’t preserve it in the world.\
+your own heart, you can’t preserve it in the world.<br/>
 **Be the Light.** Be a glorious beacon for all who live in
 despair. Let the light of your joy and courage shine forth
 in all your deeds.
@@ -339,7 +339,7 @@ Paladin Level |Spells
 
 ##### Channel Divinity
 When you take this oath at 3rd level, you gain the
-following two Channel Divinity options.\
+following two Channel Divinity options.<br/>
 **Nature’s Wrath.** You can use your Channel Divinity
 to invoke primeval forces to ensnare a foe. As an action,
 you can cause spectral vines to spring up and reach
@@ -348,20 +348,20 @@ The creature must succeed on a Strength or Dexterity
 saving throw (its choice) or be restrained. While
 restrained by the vines, the creature repeats the saving
 throw at the end of each of its turns. On a success, it
-frees itself and the vines vanish.\
+frees itself and the vines vanish.<br/>
 **Turn the Faithless.** You can use your Channel
 Divinity to utter ancient words that are painful for fey
 and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that
 can hear you must make a Wisdom saving throw. On a
 failed save, the creature is turned for 1 minute or until it
-takes damage.\
+takes damage.<br/>
 A turned creature must spend its turns trying to move
 as far away from you as it can, and it can’t willingly
 move to a space within 30 feet of you. It also can’t take
 reactions. For its action, it can use only the Dash action
 or try to escape from an effect that prevents it from
 moving. If there’s nowhere to move, the creature can use
-the Dodge action.\
+the Dodge action.<br/>
 If the creature’s true form is concealed by an illusion,
 shapeshifting, or other effect, that form is revealed while
 it is turned.
@@ -369,7 +369,7 @@ it is turned.
 Beginning at 7th level, ancient magic lies so heavily
 upon you that it forms an eldritch ward. You and friendly
 creatures within 10 feet of you have resistance to
-damage from spells.\
+damage from spells.<br/>
 At 18th level, the range of this aura increases to 30 feet.
 ##### Undying Sentinel
 Starting at 15th level, when you are reduced to 0 hit
@@ -405,14 +405,14 @@ any means necessary. Paladins who uphold these tenets
 are willing to sacrifice even their own righteousness to
 mete out justice upon those who do evil, so the paladins
 are often neutral or lawful neutral in alignment. The
-core principles of the tenets are brutally simple.\
+core principles of the tenets are brutally simple.<br/>
 **Fight the Greater Evil.** Faced with a choice of fighting
 my sworn foes or combating a lesser evil. I choose the
-greater evil.\
+greater evil.<br/>
 **No Mercy for the Wicked.** Ordinary foes might win
-my mercy, but my sworn enemies do not.\
+my mercy, but my sworn enemies do not.<br/>
 **By Any Means Necessary.** My qualms can’t get in the
-way of exterminating my foes.\
+way of exterminating my foes.<br/>
 **Restitution.** If my foes wreak ruin on the world, it is
 because I failed to stop them. I must help those harmed
 by their misdeeds.
@@ -429,18 +429,18 @@ Paladin |Level Spells
 
 ##### Channel Divinity
 When you take this oath at 3rd level, you gain the
-following two Channel Divinity options.\
+following two Channel Divinity options.<br/>
 **Abjure Enemy.** As an action, you present your holy
 symbol and speak a prayer of denunciation, using your
 Channel Divinity. Choose one creature within 60 feet
 of you that you can see. That creature must make a
 Wisdom saving throw, unless it is immune to being
 frightened. Fiends and undead have disadvantage on
-this saving throw.\
+this saving throw.<br/>
 On a failed save, the creature is frightened for 1
 minute or until it takes any damage. While frightened,
 the creature’s speed is 0, and it can’t benefit from any
-bonus to its speed.\
+bonus to its speed.<br/>
 On a successful save, the creature’s speed is halved
 for 1 minute or until the creature takes any damage.
 **Vow of Enmity.** As a bonus action, you can utter a vow
@@ -473,24 +473,24 @@ speed of 60 feet.
 The first time any enemy creature enters the aura or
 starts its turn there during a battle, the creature must
 succeed on a Wisdom saving throw or become frightened of you for 1 
-minute or until it takes any damage.\
+minute or until it takes any damage.<br/>
 Attack rolls against the frightened creature have
-advantage.\
+advantage.<br/>
 Once you use this feature, you can’t use it again until
 you finish a long rest.
 
 #### Oath of Conquest
 ##### TENETS OF CONQUEST
 A paladin who takes this oath has the tenets of conquest
-seared on the upper arm. \
+seared on the upper arm. <br/>
 **Douse the Flame of Hope.** It is not enough to merely
 defeat an enemy in battle. Your victory must be so overwhelming that 
 your enemies' will to fight is shattered forever. A blade can end a 
-life. Fear can end an empire.\
+life. Fear can end an empire.<br/>
 **Rule with an Iron Fist.** Once you have conquered,
 tolerate no dissent. Your word is law. Those who obey it shall be 
 favored. Those who defy it shall be punished as an example to all who 
-might follow.\
+might follow.<br/>
 **Strength Above All.** You shall rule until a stronger one arises. 
 Then you must grow mightier and meet the challenge, or fall to your own 
 ruin.
@@ -508,7 +508,7 @@ Paladin Level |Spells
 17th |cloudkill, dominate person
 ##### CHANNEL DIVINITY
 When you take this oath at 3rd level, you gain the follow—
-ing two Channel Divinity options.\
+ing two Channel Divinity options.<br/>
 **Conquering Presence.** You can use your Channel
 Divinity to exude a terrifying presence. As an action,
 you force each creature of your choice that you can see within 30 feet 
@@ -516,7 +516,7 @@ of you to make a Wisdom saving throw.
 On a failed save, a creature becomes frightened of you
 for 1 minute. The frightened creature can repeat this
 saving throw at the end of each of its turns, ending the
-effect on itself on a success.\
+effect on itself on a success.<br/>
 **Guided Strike.** You can use your Channel Divinity to
 strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a
 +10 bonus to the roll. You make this choice after you see
@@ -525,11 +525,11 @@ the roll, but before the DM says whether the attack hits or misses.
 Starting at 7th level, you constantly emanate a menacing
 aura while you’re not incapacitated. The aura extends
 10 feet from you in every direction, but not through
-total cover.\
+total cover.<br/>
 If a creature is frightened of you, its speed is reduced
 to 0 while in the aura, and that creature takes psychic
 damage equal to half your paladin level if it starts its
-turn there.\
+turn there.<br/>
 At 18th level, the range of this aura increases
 to 30 feet.
 ##### SCORNFUL REBUKE
@@ -554,19 +554,19 @@ you finish a long rest.
 
 ##### TENETS or REDEMPTION
 The tenets of the Oath of Redemption hold a paladin to a
-high standard of peace and justice.\
+high standard of peace and justice.<br/>
 **Peace.** Violence is a weapon of last resort. Diplomacy
-and understanding are the paths to long-lasting peace.\
+and understanding are the paths to long-lasting peace.<br/>
 **Innocence.** All people begin life in an innocent state,
 and it is their environment or the influence of dark
 forces that drives them to evil. By setting the proper
 example, and working to heal the wounds of a deeply
-flawed world, you can set anyone on a righteous path.\
+flawed world, you can set anyone on a righteous path.<br/>
 **Patience.** Change takes time. Those who have walked
 the path of the wicked must be given reminders to keep
 them honest and true. Once you have planted the seed of
 righteousness in a creature, you must work day after day
-to allow that seed to survive and flourish.\
+to allow that seed to survive and flourish.<br/>
 **Wisdom.** Your heart and mind must stay clear, for
 eventually you will be forced to admit defeat. While every creature can 
 be redeemed, some are so far along the path of evil that you have no 
@@ -588,8 +588,8 @@ Paladin Level |Spells
 17th |hold monster, wall of force
 ##### CHANNEL DIVINITY
 When you take this oath at 3rd level, you gain the follow—
-ing two Channel Divinity options.\
-**Emissary of Peace.** You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma (Persuasion) checks for the next 10 minutes.\
+ing two Channel Divinity options.<br/>
+**Emissary of Peace.** You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma (Persuasion) checks for the next 10 minutes.<br/>
 **Rebuke the Violent.** You can use your Channel Divin—
 ity to rebuke those who use violence. Immediately after
 an attacker within 30 feet of you deals damage with an
@@ -603,7 +603,7 @@ the cost of your own health. When a creature within 10
 feet of you takes damage, you can use your reaction to
 magically take that damage, instead of that creature taking it. This 
 feature doesn't transfer any other effects that
-might accompany the damage, and this damage can't be reduced in any way.\
+might accompany the damage, and this damage can't be reduced in any way.<br/>
 At 18th level, the range of this aura increases
 to 30 feet.
 ##### PROTECTIVE SPIRIT

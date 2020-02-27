@@ -29,15 +29,15 @@ name: Barbarian
 ### Class features
 
 ##### Hit Points
-**Hit Dice:** 1d 12 per barbarian level\
-**Hit Points at 1st Level:** 12 + your Constitution modifier\
+**Hit Dice:** 1d 12 per barbarian level<br/>
+**Hit Points at 1st Level:** 12 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d 12 (or 7) + your
 Constitution modifier per barbarian level after 1st
 ##### Proficiencies
-**Armor:** Light armor, medium armor, shields\
-**Weapons:** Simple weapons, martial weapons\
-**Tools:** None\
-**Saving Throws:** Strength, Constitution\
+**Armor:** Light armor, medium armor, shields<br/>
+**Weapons:** Simple weapons, martial weapons<br/>
+**Tools:** None<br/>
+**Saving Throws:** Strength, Constitution<br/>
 **Skills:** Choose two from Animal Handling, Athletics,
 Intimidation, Nature, Perception, and Survival
 
@@ -63,12 +63,12 @@ in the Rage Damage column of the Barbarian table.
 slashing damage.
 
 If you are able to cast spells, you can’t cast them or
-concentrate on them while raging.\
+concentrate on them while raging.<br/>
 Your rage lasts for 1 minute. It ends early if you are
 knocked unconscious or if your turn ends and you
 haven’t attacked a hostile creature since your last turn
 or taken damage since then. You can also end your rage
-on your turn as a bonus action.\
+on your turn as a bonus action.<br/>
 Once you have raged the number of times shown
 for your barbarian level in the Rages column of the
 Barbarian table, you must finish a **long rest** before you
@@ -84,7 +84,7 @@ You can use a shield and still gain this benefit.
 
 #### Reckless Attack
 Starting at 2nd level, you can throw aside all concern
-for defense to attack with fierce desperation. \
+for defense to attack with fierce desperation. <br/>
 When you make your first attack on your turn, you can decide
 to attack recklessly. Doing so gives you advantage on
 melee weapon attack rolls using Strength during this
@@ -94,7 +94,7 @@ your next turn.
 #### Danger Sense
 At 2nd level, you gain an uncanny sense of when things
 nearby aren’t as they should be, giving you an edge
-when you dodge away from danger.\
+when you dodge away from danger.<br/>
 You have advantage on Dexterity saving throws
 against effects that you can see, such as traps and spells.
 To gain this benefit, you can’t be blinded, deafened, or
@@ -209,14 +209,14 @@ The Path of the Totem Warrior is a spiritual journey, as
 the barbarian accepts a spirit animal as guide, protector,
 and inspiration. In battle, your totem spirit fills you
 with supernatural might, adding magical fuel to your
-barbarian rage.\
+barbarian rage.<br/>
 Most barbarian tribes consider a totem animal to be
 kin to a particular clan. In such cases, it is unusual for
 an individual to have more than one totem animal spirit,
 though exceptions exist.
 ##### Spirit Seeker
 Yours is a path that seeks attunement with the natural
-world, giving you a kinship with beasts.\
+world, giving you a kinship with beasts.<br/>
 At 3rd level when you adopt this path, you gain the ability to 
 cast the beast sense and speak with animals spells, but only as 
 rituals, as described in chapter 10.
@@ -329,20 +329,20 @@ Starting at 3rd level, you emanate a stormy, magical aura while you rage. The au
 in every direction, but not through total cover. Your aura has an effect that activates when you enter
 your rage, and you can activate the effect again on each
 of your turns as a bonus action. Choose desert, sea, or
-tundra. Your aura’s effect depends on that chosen environment, as detailed below. You can change your environment choice whenever you gain a level in this class.\
+tundra. Your aura’s effect depends on that chosen environment, as detailed below. You can change your environment choice whenever you gain a level in this class.<br/>
 If your aura's effects require a saving throw, the DC
-equals **8 + your proficiency bonus + your Constitution modifier**. \
+equals **8 + your proficiency bonus + your Constitution modifier**. <br/>
 **Desert.** When this effect is activated, all other crea—
 tures in your aura take 2 fire damage each. The damage
 increases when you reach certain levels in this class, in—
 creasing to 3 at 5th level, 4 at 10th level, 5 at 15th level,
-and 6 at 20th level.\
+and 6 at 20th level.<br/>
 **Sea.** When this effect is activated, you can choose one
 other creature you can see in your aura. The target must
 make a Dexterity saving throw. The target takes 1d6
 lightning damage on a failed save, or half as much damage on a successful 
 one. The damage increases when you reach certain levels in this class, 
-increasing to 2d6 at 10th level, 3d6 at 15th level, and 4d6 at 20th level.\
+increasing to 2d6 at 10th level, 3d6 at 15th level, and 4d6 at 20th level.<br/>
 **Tundra.** When this effect is activated, each creature of
 your choice in your aura gains 2 temporary hit points, as
 icy spirits inure it to suffering. The temporary hit points
@@ -351,14 +351,14 @@ and 6 at 20th level.
 ##### STORM SOUL
 At 6th level, the storm grants you benefits even when
 your aura isn’t active. The benefits are based on the en—
-vironment you chose for your Storm Aura.\
+vironment you chose for your Storm Aura.<br/>
 **Desert.** You gain resistance to fire damage, and you
 don’t suffer the effects of extreme heat, as described in
 the Dungeon Master’s Guide. Moreover, as an action,
-you can touch a flammable object that isn’t being worn or carried by anyone else and set it on fire.\
+you can touch a flammable object that isn’t being worn or carried by anyone else and set it on fire.<br/>
 **Sea.** You gain resistance to lightning damage, and
 you can breathe underwater. You also gain a swimming
-speed of 30 feet.\
+speed of 30 feet.<br/>
 **Tundra.** You gain resistance to cold damage, and you
 don’t suffer the effects of extreme cold, as described in
 the Dungeon Master’s Guide. Moreover, as an action,
@@ -373,16 +373,16 @@ ture while the creature is in your Storm Aura. *
 ##### RAGING STORM
 At 14th level, the power of the storm you channel grows
 mightier, lashing out at your foes. The effect is based on
-the environment you chose for your Storm Aura.\
+the environment you chose for your Storm Aura.<br/>
 **Desert.** Immediately after a creature in your aura hits
 you with an attack, you can use your reaction to force
 that creature to make a Dexterity saving throw. On a
 failed save, the creature takes fire damage equal to half
-your barbarian level.\
+your barbarian level.<br/>
 **Sea.** When you hit a creature in your aura with an
 attack, you can use your reaction to force that creature
 to make a Strength saving throw. On a failed save, the
-creature is knocked prone, as if struck by a wave. \
+creature is knocked prone, as if struck by a wave. <br/>
 **Tundra.** Whenever the effect of your Storm Aura is activated, you can 
 choose one creature you can see in the aura. That creature must succeed on 
 a Strength savingthrow, or its speed is reduced to 0 until the start of 
@@ -411,12 +411,12 @@ At 10th level, you learn to channel divine power to inspire zealotry in
 others. As a bonus action, you unleasha battle cry infused with divine 
 energy. Up to ten othercreatures of your choice within 60 feet of you that 
 canhear you gain advantage on attack rolls and savingthrows until the 
-start of your next turn.\
+start of your next turn.<br/>
 Once you use this feature, you can’t use it again until
 you finish a long rest.
 ##### RAGE BEYOND DEATH
 Beginning at 14th level, the divine power that fuels your
-rage allows you to shrug off fatal blows.\
+rage allows you to shrug off fatal blows.<br/>
 While you’re raging, having 0 hit points doesn’t knock
 you unconscious. You still must make death saving
 throws, and you suffer the normal effects of taking

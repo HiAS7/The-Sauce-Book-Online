@@ -28,18 +28,18 @@ Level |Proficiency Bonus| Features| Cantrips Known| 1st| 2nd| 3rd| 4th| 5th| 6th
 
 ### Class features
 ##### Hit Points
-**Hit Dice:** 1d8 per druid level\
-**Hit Points at 1st Level:** 8 + your Constitution modifier\
+**Hit Dice:** 1d8 per druid level<br/>
+**Hit Points at 1st Level:** 8 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d8 (or 5) + your
 Constitution modifier per druid level after 1st
 
 ##### Proficiencies
 **Armor:** Light armor, medium armor, shields (druids will
-not wear armor or use shields made of metal)\
+not wear armor or use shields made of metal)<br/>
 **Weapons:** Clubs, daggers, darts, javelins, maces,
-quarterstaffs, scimitars, sickles, slings, spears\
+quarterstaffs, scimitars, sickles, slings, spears<br/>
 **Tools:** Herbalism kit
-**Saving Throws:** Intelligence, Wisdom\
+**Saving Throws:** Intelligence, Wisdom<br/>
 **Skills:** Choose two from Arcana, Animal
 Handling, Insight, Medicine, Nature, Perception,
 Religion, and Survival
@@ -73,7 +73,7 @@ The Druid table shows how many spell slots you have
 to cast your spells of 1st level and higher. To cast one of
 these druid spells, you must expend a slot of the spell’s
 level or higher. You regain all expended spell slots when
-you finish a long rest.\
+you finish a long rest.<br/>
 You prepare the list of druid spells that are available
 for you to cast, choosing from the druid spell list. when
 you do so, choose a number of druid spells equal to
@@ -100,7 +100,7 @@ you use your Wisdom modifier when setting the saving
 throw DC for a druid spell you cast and when making an
 attack roll with one.
 >**Spell save DC** = 8 + your proficiency bonus +
-your Wisdom modifier\
+your Wisdom modifier<br/>
 **Spell attack modifier** = your proficiency bonus +
 your Wisdom modifier
 
@@ -114,7 +114,7 @@ spellcasting focus for your druid spells.
 #### Wild Shape
 Starting at 2nd level, you can use your action to
 magically assume the shape of a beast that you have
-seen before.\
+seen before.<br/>
 You can use this feature twice. You regain
 expended uses when you finish a short or long rest.
 Your druid level determines the beasts you can
@@ -190,7 +190,7 @@ When you reach 4th level, and again at 8th, 12th, 16th,
 and 19th level, you can increase one ability score of
 your choice by 2, or you can increase two ability scores
 of your choice by 1. As normal, you can’t increase an
-ability score above 20 using this feature.\
+ability score above 20 using this feature.<br/>
 Starting at 18th level, the primal magic that you wield
 causes you to age more slowly. For every 10 years that
 pass, your body ages only 1 year.
@@ -223,7 +223,7 @@ spell slots to recover. The spell slots can have a
 combined level that is equal to or less than half your
 druid level (rounded up), and none of the slots can be
 6th level or higher. You can’t use this feature again until
-you finish a long rest.\
+you finish a long rest.<br/>
 For example, when you are a 4th-level druid, you can
 recover up to two levels worth of spell slots. You can
 recover either a 2nd-level slot or two 1st-level slots.
@@ -234,7 +234,7 @@ the ability to cast certain spells. At 3rd, 5th, 7th, and
 to the land where you becam e a druid. Choose that
 land—arctic, coast, desert, forest, grassland, mountain,
 swamp, or Underdark—and consult the associated
-list of spells.\
+list of spells.<br/>
 Once you gain access to a circle spell, you always have
 it prepared, and it doesn’t count against the number of
 spells you can prepare each day. If you gain access to a
@@ -300,7 +300,7 @@ Druid Level |Circle Spells
 
 ##### Land’s Stride
 Starting at 6th level, moving through nonmagical
-difficult terrain costs you no extra movement.\
+difficult terrain costs you no extra movement.<br/>
 You can also pass through nonmagical plants without being
 slowed by them and without taking damage from them if
 they have thorns, spines, or a similar hazard.
@@ -314,12 +314,12 @@ poison and disease.
 ##### Nature’s Sanctuary
 When you reach 14th level, creatures of the natural
 world sense your connection to nature and become
-hesitant to attack you.\
+hesitant to attack you.<br/>
 When a beast or plant creature attacks you, that creature must 
 make a Wisdom saving throw against your druid spell save DC. On a 
 failed save, the creature must choose a different target, or the 
 attack automatically misses. On a successful save, the creature
-is immune to this effect for 24 hours.\
+is immune to this effect for 24 hours.<br/>
 The creature is aware of this effect before it makes its
 attack against you.
 
@@ -339,7 +339,7 @@ into more dangerous animal forms. Starting at 2nd
 level, you can use your Wild Shape to transform into a
 beast with a challenge rating as high as 1 (you ignore
 the Max. CR column of the Beast Shapes table, but must
-abide by the other limitations there).\
+abide by the other limitations there).<br/>
 Starting at 6th level, you can transform into a beast
 with a challenge rating as high as your druid level
 divided by 3, rounded down.
@@ -362,13 +362,13 @@ alter self spell at will.
 At 2nd level, you become imbued with the blessings of
 the Summer Court. You are a font of energy that offers
 respite from injuries. You have a pool of fey energy represented by a 
-number of d6s equal to your druid level.\
+number of d6s equal to your druid level.<br/>
 As a bonus action, you can choose one creature you
 can see within 120 feet of you and spend a number of l
 those dice equal to half your druid level or less. Roll the
 spent dice and add them together. The target regains a :
 number of hit points equal to the total. The target also gains 1 temporary 
-hit point per die spent.\
+hit point per die spent.<br/>
 You regain all expended dice when you finish a
 long rest.
 ##### HEARTH OF MOONLIGHT AND SHADOW
@@ -381,7 +381,7 @@ on that point. Total cover blocks the sphere.
 While within the sphere, you and your allies gain a +5
 bonus to Dexterity (Stealth) and Wisdom (Perception)
 checks, and any light from open flames in the sphere (a l
-campfire, torches, or the like) isn’t visible outside it. \
+campfire, torches, or the like) isn’t visible outside it. <br/>
 The sphere vanishes at the end of the rest or when you |
 leave the sphere.
 ##### HIDDEN PATHS
@@ -397,17 +397,17 @@ of it when you finish a long rest.
 ##### WALKER IN DREAMS
 At 14th level, the magic of the Feywild grants you
 the ability to travel mentally or physically through
-dreamlands.\
+dreamlands.<br/>
 When you finish a short rest, you can cast one of the
 following spells, without expending a spell slot or re- quiring material 
 components: dream (with you as the messenger), scrying, or teleportation 
-circle.\
+circle.<br/>
 This use of teleportation circle is special. Rather than
 opening a portal to a permanent teleportation circle, it
 opens a portal to the last location where you finished
 a long rest on your current plane of existence. If you
 haven't taken a long rest on your current plane, the
-spell fails but isn’t wasted.\
+spell fails but isn’t wasted.<br/>
 Once you use this feature, you can’t use it again
 until you finish a long rest.
 
@@ -415,7 +415,7 @@ until you finish a long rest.
 
 ##### SPEECH OF THE WOODS
 At 2nd level, you gain the ability to converse with beasts
-and many fey.\
+and many fey.<br/>
 You learn to speak, read, and write Sylvan. In addi‘
 tion, beasts can understand your speech, and you gain
 the ability to decipher their noises and motions. Most
@@ -433,26 +433,26 @@ can magically summon an incorporeal spirit to a point
 you can see within 60 feet of you. The spirit creates an
 aura in a 30-foot radius around that point. It counts as neither a 
 creature nor an object, though it has the spectral appearance of the 
-creature it represents.\
+creature it represents.<br/>
 As a bonus action, you can move the spirit up to 60
 feet to a point you can see. The spirit persists for 1 minute or until 
 you’re incapacitated. Once you use this feature, you can’t use it again
-until you finish a short or long rest.\
+until you finish a short or long rest.<br/>
 The effect of.the spirit’s aura depends on the type of
-spirit you summon from the options below.\
+spirit you summon from the options below.<br/>
 **Bear Spirit.** The bear spirit grants you and your allies
 its might and endurance. Each creature of your choice
 in the aura when the spirit appears gains temporary
 hit points equal to 5 + your druid level. In addition, you
 and your allies gain advantage on Strength checks and
-Strength saving throws while in the aura. \
+Strength saving throws while in the aura. <br/>
 **Hawk Spirit.** The hawk spirit is a consummate
 hunter, aiding you and your allies with its keen sight.
 When a creature makes an attack roll against a target
 in the spirit’s aura, you can use your reaction to grant
 advantage to that attack roll. In addition, you and your
 allies have advantage on Wisdom (Perception) checks
-while in the aura.\
+while in the aura.<br/>
 **Unicorn Spirit.** The unicorn spirit lends its protection
 to those nearby. You and your allies gain advantage on
 all ability checks made to detect creatures in the spirit’s
@@ -487,6 +487,6 @@ challenge rating 2 or lower. The conjured beasts appear
 within 20 feet of you. If they receive no commands from
 you, they protect you from harm and attack your foes.
 The spell lasts for 1 hour, requiring no concentration, or until you 
-dismiss it (no action required).\
+dismiss it (no action required).<br/>
 Once you use this feature, you can’t use it again until
 you finish a long rest.

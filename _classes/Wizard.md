@@ -28,16 +28,16 @@ Level|Proficiency Bonus |Features|Cantrips Known|1st |2nd |3rd |4th |5th |6th |7
 
 ### Class features
 ##### Hit Points
-**Hit Dice:** 1d6 per wizard level\
-**Hit Points at 1st Level:** 6 + your Constitution modifier\
+**Hit Dice:** 1d6 per wizard level<br/>
+**Hit Points at 1st Level:** 6 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d6 (or 4) + your
 Constitution modifier per wizard level after 1st
 ##### Proficiencies
-**Armor:** None\
+**Armor:** None<br/>
 **Weapons:** Daggers, darts, slings, quarterstaffs,
-light crossbows\
-**Tools:** None\
-**Saving Throws:** Intelligence, Wisdom\
+light crossbows<br/>
+**Tools:** None<br/>
+**Saving Throws:** Intelligence, Wisdom<br/>
 **Skills:** Choose two from Arcana, History, Insight,
 Investigation, Medicine, and Religion
 ##### Equipment
@@ -69,35 +69,35 @@ as intellectual breakthroughs you have had about the nature
 of the multiverse. You might find other spells during your
 adventures. You could discover a spell recorded on a scroll in
 an evil wizard's chest, for example, or in a dusty tome in an
-ancient library.\
+ancient library.<br/>
 **Copying a Spell into the Book.** When you find a wizard spell
 of 1st level or higher, you can add it to your spellbook if it is
 of a level for which you have spell slots and if you can spare
-the time to decipher and copy it.\
+the time to decipher and copy it.<br/>
 Copying a spell into your spellbook involves reproducing
 the basic form of the spell, then deciphering the unique
 system of notation used by the wizard who wrote it. You
 must practice the spell until you understand the sounds
 or gestures required, then transcribe it into your spellbook
-using your own notation.\
+using your own notation.<br/>
 For each level of the spell, the process takes 2 hours and
 costs 50 gp. The cost represents material components you
 expend as you experiment with the spell to master it, as well
 as the fine inks you need to record it. Once you have spent
 this time and money, you can prepare the spell just like your
-other spells.\
+other spells.<br/>
 **Replacing the Book.** You can copy a spell from your own
 spellbook into another book— for example, if you want
 to make a backup copy of your spellbook. This is just like
 copying a new spell into your spellbook, but faster and easier,
 since you understand your own notation and already know
 how to cast the spell. You need spend only 1 hour and 10 gp
-for each level of the copied spell.\
+for each level of the copied spell.<br/>
 If you lose your spellbook, you can use the same procedure
 to transcribe the spells that you have prepared into a new
 spellbook. Filling out the remainder of your spellbook
 requires you to find new spells to do so, as normal. For this
-reason, many wizards keep backup spellbooks in a safe place.\
+reason, many wizards keep backup spellbooks in a safe place.<br/>
 **The Book’s Appearance.** Your spellbook is a unique
 compilation of spells, with its own decorative flourishes and
 margin notes. It might be a plain, functional leather volume
@@ -111,7 +111,7 @@ The Wizard table show s how many spell slots you have
 to cast your spells of 1st level and higher. To cast one of
 these spells, you must expend a slot of the spell’s level
 or higher. You regain all expended spell slots when you
-finish a long rest.\
+finish a long rest.<br/>
 You prepare the list of wizard spells that are available
 for you to cast. To do so. choose a number of wizard
 spells from your spellbook equal to your **Intelligence
@@ -124,7 +124,7 @@ include six spells of 1st or 2nd level, in any combination,
 chosen from your spellbook. If you prepare the 1st-level
 spell magic missile, you can cast it using a 1st-level or a
 2nd-level slot. Casting the spell doesn’t remove it from
-your list of prepared spells.\
+your list of prepared spells.<br/>
 You can change your list of prepared spells when
 you finish a long rest. Preparing a new list of wizard
 spells requires time spent studying your spellbook and
@@ -140,7 +140,7 @@ In addition, you use your Intelligence modifier when
 setting the saving throw DC for a wizard spell you cast
 and when making an attack roll with one.
 >**Spell save DC** = 8 + your proficiency bonus +
-your Intelligence modifier\
+your Intelligence modifier<br/>
 **Spell attack modifier** = your proficiency bonus +
 your intelligence modifier
 ##### Ritual Casting
@@ -250,7 +250,7 @@ dispel magic), you add your proficiency bonus to that
 ability check.
 ##### Spell Resistance
 Starting at 14th level, you have advantage on saving
-throws against spells.\
+throws against spells.<br/>
 Furthermore, you have resistance against the
 damage of spells.
 
@@ -274,7 +274,7 @@ that you can see within 10 feet of you. This object can be
 no larger than 3 feet on a side and weigh no more than
 10 pounds, and its form must be that of a nonmagical
 object that you have seen. The object is visibly magical,
-radiating dim light out to 5 feet.\
+radiating dim light out to 5 feet.<br/>
 The object disappears after 1 hour, when you use this
 feature again, or if it takes any damage.
 ##### Benign Transposition
@@ -331,12 +331,12 @@ Starting at 10th level, you can use your action to
 increase your pow ers of perception. When you do so,
 choose one of the following benefits, which lasts until
 you are incapacitated or you take a short or long rest.
-You can’t use the feature again until you finish a rest.\
+You can’t use the feature again until you finish a rest.<br/>
 **Darkvision.** You gain darkvision out to a range of 60
-feet.\
+feet.<br/>
 **Ethereal Sight.** You can see into the Ethereal Plane
-within 60 feet of you.\
-**Greater Comprehension.** You can read any language.\
+within 60 feet of you.<br/>
+**Greater Comprehension.** You can read any language.<br/>
 **See Invisibility.** You can see invisible creatures and
 objects within 10 feet of you that are within line of sight.
 ##### Greater Portent
@@ -366,13 +366,13 @@ hear you, it must succeed on a Wisdom saving throw
 against your wizard spell save DC or be charmed by you
 until the end of your next turn. The charmed creature’s
 speed drops to 0, and the creature is incapacitated and
-visibly dazed.\
+visibly dazed.<br/>
 On subsequent turns, you can use your action to
 maintain this effect, extending its duration until the
 end of your next turn. However, the effect ends if you
 move more than 5 feet away from the creature, if the
 creature can neither see nor hear you, or if the creature
-takes damage.\
+takes damage.<br/>
 Once the effect ends, or if the creature succeeds on its
 initial saving throw against this effect, you can’t use this
 feature on that creature again until you finish a long rest.
@@ -400,7 +400,7 @@ At 14th level, you gain the ability to make a creature
 unaware of your magical influence on it. When you cast
 an enchantment spell to charm one or more creatures,
 you can alter one creature’s understanding so that it
-remains unaware of being charmed.\
+remains unaware of being charmed.<br/>
 Additionally, once before the spell expires, you can
 use your action to try to make the chosen creature
 forget some of the time it spent charmed. The creature
@@ -447,7 +447,7 @@ spell you cast.
 Starting at 14th level, you can increase the pow er of
 your simpler spells. When you cast a wizard spell of
 5th level or lower that deals damage, you can deal
-maximum damage with that spell.\
+maximum damage with that spell.<br/>
 The first time you do so, you suffer no adverse effect.
 If you use this feature again before you finish a long
 rest, you take 2d 12 necrotic dam age for each level of
@@ -475,7 +475,7 @@ When you choose this school at 2nd level, you learn
 the minor illusion cantrip. If you already know this
 cantrip, you learn a different wizard cantrip of your
 choice. The cantrip doesn’t count against your number
-of cantrips known.\
+of cantrips known.<br/>
 When you cast minor illusion, you can create both a
 sound and an im age with a single casting of the spell.
 ##### Malleable Illusions
@@ -504,7 +504,7 @@ real. You can do this on your turn as a bonus action
 while the spell is ongoing. The object remains real for
 1 minute. For example, you can create an illusion of a
 bridge over a chasm and then make it real long enough
-for your allies to cross.\
+for your allies to cross.<br/>
 The object can’t deal damage or otherwise
 directly harm anyone.
 
@@ -515,7 +515,7 @@ this tradition, you learn to manipulate the energy that
 animates all living things. As you progress, you learn to
 sap the life force from a creature as your magic destroys
 its body, transforming that vital energy into magical
-pow er you can manipulate.\
+pow er you can manipulate.<br/>
 Most people see necrom ancers as menacing, or even
 villainous, due to the close association with death.
 Not all necrom ancers are evil, but the forces they
@@ -537,7 +537,7 @@ At 6th level, you add the animate dead spell to your
 spellbook if it is not there already. When you cast
 animate dead, you can target one additional corpse
 or pile of bones, creating another zom bie or skeleton,
-as appropriate.\
+as appropriate.<br/>
 Whenever you create an undead using a necromancy
 spell, it has additional benefits:
 * The creature’s hit point maximum is increased by an
@@ -613,7 +613,7 @@ benefit)
 
 Each time you cast a transmutation spell of 1st level
 or higher, you can change the effect of your stone if the
-stone is on your person.\
+stone is on your person.<br/>
 If you create a new transmuter’s stone, the previous
 one ceases to function.
 ##### Shapechanger
@@ -621,7 +621,7 @@ At 10th level, you add the polymorph spell to your
 spellbook, if it is not there already. You can cast
 polymorph without expending a spell slot. When you
 do so, you can target only yourself and transform into a
-beast whose challenge rating is 1 or lower.\
+beast whose challenge rating is 1 or lower.<br/>
 Once you cast polymorph in this way, you can’t do so
 again until you finish a short or long rest, though you
 can still cast it normally using an available spell slot.
@@ -631,19 +631,19 @@ consume the reserve of transmutation magic stored
 within your transmuter’s stone in a single burst. When
 you do so, choose one of the following effects. Your
 transmuter’s stone is destroyed and can’t be remade
-until you finish a long rest.\
+until you finish a long rest.<br/>
 **Major Transformation.** You can transmute one
 nonmagical object—no larger than a 5-foot cube—into
 another nonmagical object of similar size and mass and
 of equal or lesser value. You must spend 10 minutes
-handling the object to transform it.\
+handling the object to transform it.<br/>
 **Panacea.** You remove all curses, diseases, and poisons
 affecting a creature that you touch with the transmuter’s
-stone. The creature also regains all its hit points.\
+stone. The creature also regains all its hit points.<br/>
 **Restore Life.** You cast the raise dead spell on a
 creature you touch with the transmuter’s stone, without
 expending a spell slot or needing to have the spell in
-your spellbook.\
+your spellbook.<br/>
 **Restore Youth.** You touch the transmuter’s stone to
 a willing creature, and that creature’s apparent age is
 reduced by 3 d 10 years, to a minim um of 13 years. This
@@ -655,7 +655,7 @@ effect doesn’t extend the creature’s lifespan.
 At 2nd level, you have learned to weave your magic to
 fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your reaction
 to gain a +2 bonus to your AC against that attack or a +4
-bonus to that saving throw.\
+bonus to that saving throw.<br/>
 When you use this feature, you can't cast spells other
 than cantrips until the end of your next turn.
 
@@ -669,13 +669,13 @@ Starting at 6th level, you can store magical energy
 within yourself to later empower your damaging spells.
 In its stored form, this energy is called a power surge.
 You can store a maximum number of power surges
-equal to your Intelligence modifier (minimum of one).\
+equal to your Intelligence modifier (minimum of one).<br/>
 Whenever you finish a long rest, your number of power
 surges resets to one. Whenever you successfully end
 a spell with dispel magic or counterspel], you gain one
 power surge, as you steal magic from the spell you
 foiled. If you end a short rest with no power surges, you
-gain one power surge.\
+gain one power surge.<br/>
 Once per turn when you deal damage to a creature
 or object with a wizard spell, you can spend one power
 surge to deal extra force damage to that target. The extra damage equals **half your wizard level**.

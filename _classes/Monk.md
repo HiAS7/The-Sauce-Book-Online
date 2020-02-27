@@ -28,16 +28,16 @@ Level |Proficiency Bonus |Martial Arts |Ki Points |Unarmored Movement |Features
 
 ### Class features
 ##### Hit Points
-**Hit Dice:** 1d8 per monk level\
-**Hit Points at 1st Level:** 8 + your Constitution modifier\
+**Hit Dice:** 1d8 per monk level<br/>
+**Hit Points at 1st Level:** 8 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d8 (or 5) + your
 Constitution modifier per monk level after 1st
 ##### Proficiencies
-**Armor:** None\
-**Weapons:** Simple weapons, shortswords\
+**Armor:** None<br/>
+**Weapons:** Simple weapons, shortswords<br/>
 **Tools:** Choose one type of artisan’s tools or one
-musical instrument\
-**Saving Throws:** Strength, Dexterity\
+musical instrument<br/>
+**Saving Throws:** Strength, Dexterity<br/>
 **Skills:** Choose two from Acrobatics, Athletics, History,
 Insight, Religion, and Stealth
 ##### Equipment
@@ -56,7 +56,7 @@ At 1st level, your practice of martial arts gives you
 mastery of combat styles that use unarm ed strikes and
 monk weapons, which are shortswords and any simple
 melee weapons that don’t have the two-handed or
-heavy property.\
+heavy property.<br/>
 You gain the following benefits while you are unarmed
 or wielding only monk weapons and you aren’t wearing
 armor or wielding a shield:
@@ -72,7 +72,7 @@ strike or a monk weapon on your turn, you can make
 one unarm ed strike as a bonus action. For example, if
 you take the Attack action and attack with a quarterstaff, you can also make an unarm ed strike as a bonus
 action, assum ing you haven't already taken a bonus
-action this turn.\
+action this turn.<br/>
 Certain monasteries use specialized form s of the
 monk weapons. For example, you might use a club
 that is two lengths of wood connected by a short chain
@@ -89,12 +89,12 @@ as shown in the Ki Points column of the Monk table.
 You can spend these points to fuel various ki features.
 You start knowing three such features: Flurry of Blows,
 Patient Defense, and Step of the Wind. You learn more
-ki features as you gain levels in this class\
+ki features as you gain levels in this class<br/>
 When you spend a ki point, it is unavailable until
 you finish a short or long rest, at the end of which you
 draw all of your expended ki back into yourself. You
 must spend at least 30 minutes of the rest meditating to
-regain your ki points.\
+regain your ki points.<br/>
 Some of your ki features require your target to make
 a saving throw to resist the feature’s effects. The saving
 throw DC is calculated as follows:
@@ -115,7 +115,7 @@ distance is doubled for the turn.
 Starting at 2nd level, your speed increases by 10 feet
 while you are not wearing armor or wielding a shield.
 This bonus increases when you reach certain monk
-levels, as shown in the Monk table.\
+levels, as shown in the Monk table.<br/>
 At 9th level, you gain the ability to move along vertical
 surfaces and across liquids on your turn without falling
 during the move.
@@ -137,7 +137,7 @@ Starting at 3rd level, you can use your reaction to
 deflect or catch the missile when you are hit by a ranged
 weapon attack. When you do so, the damage you take
 from the attack is reduced by 1d 10 + your Dexterity
-modifier + your monk level.\
+modifier + your monk level.<br/>
 If you reduce the damage to 0, you can catch the
 missile if it is small enough for you to hold in one hand
 and you have at least one hand free. If you catch a
@@ -195,12 +195,12 @@ Moreover, any creature that can understand a language
 can understand what you say.
 #### Diamond Soul
 Beginning at 14th level, your mastery of ki grants you
-proficiency in all saving throws.\
+proficiency in all saving throws.<br/>
 Additionally, whenever you make a saving throw and
 fail, you can spend 1 ki point to reroll it and take the
-second result.\
+second result.<br/>
 During that time, you also have resistance to all damage
-but force damage.\
+but force damage.<br/>
 Additionally, you can spend 8 ki points to cast the
 astral projection spell, without needing material
 components. When you do so, you can’t take any other
@@ -258,7 +258,7 @@ To do so, you and the target must be on the same plane
 of existence. When you use this action, the creature
 must make a Constitution saving throw. If it fails, it is
 reduced to 0 hit points. If it succeeds, it takes 10d10
-necrotic damage.\
+necrotic damage.<br/>
 You can have only one creature under the effect of this
 feature at a time. You can choose to end the vibrations
 harmlessly without using an action.
@@ -296,15 +296,15 @@ make a melee attack against that creature.
 When you choose this tradition at 3rd level, you learn
 magical disciplines that harness the power of the four
 elements. A discipline requires you to spend ki points
-each time you use it.\
+each time you use it.<br/>
 You know the Elemental Attunement discipline and
 one other elemental discipline of your choice, which are
 detailed in the “Elemental Disciplines” section below.
 You learn one additional elemental discipline of your
-choice at 6th, 11th, and 17th level.\
+choice at 6th, 11th, and 17th level.<br/>
 Whenever you learn a new elemental discipline,
 you can also replace one elemental discipline that you
-already know with a different discipline.\
+already know with a different discipline.<br/>
 **Casting Elemental Spells.** Some elemental
 disciplines allow you to cast spells. To cast one of these
 spells, you use its casting time and other rules, but you
@@ -317,7 +317,7 @@ does. The spell's level increases by 1 for each additional
 ki point you spend. For example, if you are a 5th-level
 monk and use Sweeping Cinder Strike to cast burning
 hands, you can spend 3 ki points to cast it as a 2nd-level
-spell (the discipline’s base cost of 2 ki points plus 1).\
+spell (the discipline’s base cost of 2 ki points plus 1).<br/>
 The maximum number of ki points you can spend to
 cast a spell in this way (including its base ki point cost
 and any additional ki points you spend to increase its
@@ -335,11 +335,11 @@ Monk Levels |Maximum Ki Points for a Spell
 ##### Elemental Disciplines
 The elemental disciplines are presented in alphabetical
 order. If a discipline requires a level, you must be that
-level in this class to learn the discipline.\
+level in this class to learn the discipline.<br/>
 **Breath of Winter (17th Level Required).** You can
-spend 6 ki points to cast cone of cold.\
+spend 6 ki points to cast cone of cold.<br/>
 **Clench of the North Wind (6th Level Required).** You
-can spend 3 ki points to cast hold person.\
+can spend 3 ki points to cast hold person.<br/>
 **Elemental Attunement.** You can use your action to
 briefly control elemental forces nearby, causing one of
 the follow ing effects of your choice:
@@ -356,7 +356,7 @@ up to 1 hour.
 
 **Eternal Mountain Defense (11th Level Required).**
 You can spend 5 ki points to cast stoneskin,
-targeting yourself.\
+targeting yourself.<br/>
 **Fangs of the Fire Snake.** When you use the Attack
 action on your turn, you can spend 1 ki point to cause
 tendrils of flame to stretch out from your fists and feet.
@@ -364,9 +364,9 @@ Your reach with your unarmed strikes increases by
 10 feet for that action, as well as the rest of the turn.
 A hit with such an attack deals fire damage instead of
 bludgeoning damage, and if you spend 1 ki point when
-the attack hits, it also deals an extra 1d 10 fire damage.\
+the attack hits, it also deals an extra 1d 10 fire damage.<br/>
 **Fist of Four Thunders.** You can spend 2 ki points to
-cast thunderwave.\
+cast thunderwave.<br/>
 **Fist of Unbroken Air.** You can create a blast of
 compressed air that strikes like a mighty fist. As an
 action, you can spend 2 ki points and choose a creature
@@ -377,34 +377,34 @@ bludgeoning damage for each additional ki point you
 spend, and you can push the creature up to 20 feet away
 from you and knock it prone. On a successful save, the
 creature takes half as much damage, and you don’t push
-it or knock it prone.\
+it or knock it prone.<br/>
 **Flames of the Phoenix (11th Level Required).** You
-can spend 4 ki points to cast fireball.\
+can spend 4 ki points to cast fireball.<br/>
 **Gong of the Summit (6th Level Required).** You can
-spend 3 ki points to cast shatter.\
+spend 3 ki points to cast shatter.<br/>
 **Mist Stance (11th Level Required).** You can spend 4
-ki points to cast gaseous form, targeting yourself.\
+ki points to cast gaseous form, targeting yourself.<br/>
 **Ride the Wind (11th Level Required).** You can spend
-4 ki points to cast fly, targeting yourself.\
+4 ki points to cast fly, targeting yourself.<br/>
 **River of Hungry Flame (17th Level Required).** You
-can spend 5 ki points to cast wall of fire.\
+can spend 5 ki points to cast wall of fire.<br/>
 **Rush of the Gale Spirits.** You can spend 2 ki points
-to cast gust of wind.\
+to cast gust of wind.<br/>
 **Shape the Flowing River.** As an action, you can
 spend 1 ki point to choose an area of ice or water no
 larger than 30 feet on a side within 120 feet of you. You
 can change water to ice within the area and vice versa,
 and you can reshape ice in the area in any manner you
 choose. You can raise or lower the ice’s elevation, create
-or fill in a trench, erect or flatten a wall, or form a pillar.\
+or fill in a trench, erect or flatten a wall, or form a pillar.<br/>
 The extent of any such changes can’t exceed half the
 area’s largest dimension. For example, if you affect a
 30-foot square, you can create a pillar up to 15 feet high,
 raise or lower the square’s elevation by up to 15 feet, dig
 a trench up to 15 feet deep, and so on. You can’t shape
-the ice to trap or injure a creature in the area.\
+the ice to trap or injure a creature in the area.<br/>
 **Sweeping Cinder Strike.** You can spend 2 ki points to
-cast burning hands.\
+cast burning hands.<br/>
 **Water Whip.** You can spend 2 ki points as a bonus
 action to create a whip of water that shoves and pulls
 a creature to unbalance it. A creature that you can see
@@ -414,7 +414,7 @@ bludgeoning damage, plus an extra 1d10 bludgeoning
 damage for each additional ki point you spend, and you
 can either knock it prone or pull it up to 25 feet closer
 to you. On a successful save, the creature takes half as
-much damage, and you don’t pull it or knock it prone.\
+much damage, and you don’t pull it or knock it prone.<br/>
 **Wave of Rolling Earth (17th Level Required).** You
 can spend 6 ki points to cast wall of stone.
 
@@ -433,10 +433,10 @@ the Disengage action, and your walking speed increases by 10 feet until the
 end of the current turn.
 ##### TIPSY SWAY
 Starting at 6th level, you can move in sudden, swaying
-ways. You gain the following benefits.\
+ways. You gain the following benefits.<br/>
 **Leap to Your Feet.** When you’re prone, you can stand
 up by spending 5 feet of movement, rather than half
-your speed.\
+your speed.<br/>
 **Redirect Attack.** When a creature misses you with
 a melee attack roll, you can spend 1 ki point as a re- action to cause 
 that attack to hit one creature of your choice, other than the attacker, 
@@ -458,7 +458,7 @@ targets a different creature this turn.
 When you choose this tradition at 3rd level, your special martial arts training leads you to master the use of
 certain weapons. This path also includes instruction in
 the deft strokes of calligraphy or painting. You gain the
-following benefits.\
+following benefits.<br/>
 **Kensei Weapons.** Choose two types of weapons to
 be your kensei weapons: one melee weapon and one
 ranged weapon. Each of these weapons can be any simple or martial weapon 
@@ -469,28 +469,28 @@ you. Many of this tradition’s features work only with
 your kensei weapons. When you reach 6th, 11th, and
 17th level in this class. you can choose another type of
 weapon—either melee or ranged—to be a kensei weapon
-for you. following the criteria above.\
+for you. following the criteria above.<br/>
 **Agile Parry.** If you make an unarmed strike as part of
 the Attack action on your turn and are holding a kensei
 weapon, you can use it to defend yourself if it is a melee
 weapon. You gain a +2 bonus to AC until the start of
 your next turn, while the weapon is in your hand and
-you aren't incapacitated.\
+you aren't incapacitated.<br/>
 **Kensei’s Shot.** You can use a bonus action on your
 turn to make your ranged attacks with a kensei weapon
 more deadly. When you do so, any target you hit with a
 ranged attack using a kensei weapon takes an extra 1d4
 damage of the weapons type. You retain this benefit un—
-til the end of the current turn.\
+til the end of the current turn.<br/>
 **Way of the Brush.** You gain proficiency with your
 choice of calligrapher's supplies or painter's supplies.
 
 ##### ONE WITH THE BLADE
 At 6th level, you extend your ki into your kensei weapons, granting you 
-the following benefits.\
+the following benefits.<br/>
 **Magic Kensei Weapons.** Your attacks with your kensei weapons count as 
 magical for the purpose of overcoming resistance and immunity to 
-nonmagical attacks and damage.\
+nonmagical attacks and damage.<br/>
 **Deft Strike.** When you hit a target with a kensei
 weapon, you can spend 1 ki point to cause the weapon
 to deal extra damage to the target equal to your Martial

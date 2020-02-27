@@ -29,15 +29,15 @@ Level |Proficiency Bonus |Features |Spells Known |1st |2nd| 3rd |4th| 5th
 
 ### Class features
 ##### Hit Points
-**Hit Dice:** 1d10 per ranger level\
-**Hit Points at 1st Level:** 10 + your Constitution modifier\
+**Hit Dice:** 1d10 per ranger level<br/>
+**Hit Points at 1st Level:** 10 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d10 (or 6) + your 
 Constitution modifier per ranger level after first
 ##### Proficiencies
-**Armor:** Light armor, medium armor, shields\
-**Weapons:** Simple weapons, martial weapons\
-**Tools:** None\
-**Saving Throws:** Strength, Dexterity\
+**Armor:** Light armor, medium armor, shields<br/>
+**Weapons:** Simple weapons, martial weapons<br/>
+**Tools:** None<br/>
+**Saving Throws:** Strength, Dexterity<br/>
 **Skills**: Choose three from Animal Handling, 
 Athletics, Insight, Investigation, Nature, 
 Perception, Stealth, and Survival
@@ -53,7 +53,7 @@ granted by your background:
 Beginning at 1st level, you have significant 
 experience studying, tracking, hunting, and even 
 talking to a certain type of enemy commonly 
-encountered in the wilds.\
+encountered in the wilds.<br/>
 Choose a type of favored enemy: beasts, fey, 
 humanoids, monstrosities, or undead. You gain a 
 +2 bonus to **damage rolls** with weapon attacks 
@@ -61,7 +61,7 @@ against creatures of the chosen type. Additionally,
 you have advantage on Wisdom (Survival) checks 
 to track your favored enemies, as well as on 
 Intelligence checks to recall information about 
-them.\
+them.<br/>
 When you gain this feature, you also learn one 
 language of your choice, typically one spoken by 
 your favored enemy or creatures associated with it. 
@@ -129,19 +129,19 @@ you have to cast your spells of 1st level and
 higher. To cast one of these spells, you must 
 expend a slot of the spell’s level or higher. You 
 regain all expended spell slots when you finish a 
-long rest.\
+long rest.<br/>
 For example, if you know the 1st-level spell 
 animal friendship and have a 1st-level and a 2ndlevel spell slot available, you can cast animal 
 friendship using either slot.
 ##### Spells Known of 1st Level and Higher
 You know two 1st-level spells of your choice 
-from the ranger spell list.\
+from the ranger spell list.<br/>
 The Spells Known column of the Ranger table 
 shows when you learn more ranger spells of 
 your choice. Each of these spells must be of a 
 level for which you have spell slots. For instance, 
 when you reach 5th level in this class, you can 
-learn one new spell of 1st or 2nd level.\
+learn one new spell of 1st or 2nd level.<br/>
 Additionally, when you gain a level in this class,
 you can choose one of the ranger spells you 
 know and replace it with another spell from the 
@@ -158,14 +158,14 @@ modifier when setting the saving throw DC for a
 ranger spell you cast and when making an attack 
 roll with one.
 > **Spell save DC** = 8 + your proficiency bonus + 
-your Wisdom modifier\
+your Wisdom modifier<br/>
 **Spell attack modifier** = your proficiency bonus + your 
 Wisdom modifier
 
 #### Primeval Awareness
 Beginning at 3rd level, your mastery of ranger 
 lore allows you to establish a powerful link to
-beasts and to the land around you.\
+beasts and to the land around you.<br/>
 You have an innate ability to communicate 
 with beasts, and they recognize you as a kindred 
 spirit. Through sounds and gestures, you can 
@@ -174,10 +174,10 @@ and can read its basic mood and intent. You learn
 its emotional state, whether it is affected by 
 magic of any sort, its short-term needs (such as 
 food or safety), and actions you can take (if any) 
-to persuade it to not attack.\
+to persuade it to not attack.<br/>
 You cannot use this ability against a creature 
 that you have attacked within the past 10 
-minutes.\
+minutes.<br/>
 Additionally, you can attune your senses to 
 determine if any of your favored enemies lurk 
 nearby. By spending 1 uninterrupted minute in 
@@ -187,7 +187,7 @@ favored enemies are present within 5 miles of
 you. This feature reveals which of your favored 
 enemies are present, their numbers, and the 
 creatures’ general direction and distance (in 
-miles) from you.\
+miles) from you.<br/>
 If there are multiple groups of your favored 
 enemies within range, you learn this information 
 for each group.
@@ -219,7 +219,7 @@ benefits against this chosen enemy that you
 normally gain against your favored enemy, 
 including an additional language. Your bonus to 
 **damage rolls** against all your favored enemies 
-increases to +4.\
+increases to +4.<br/>
 Additionally, you have advantage on saving 
 throws against the spells and abilities used by a 
 greater favored enemy.
@@ -235,7 +235,7 @@ moving, creatures that attempt to detect you
 take a −10 penalty to their Wisdom (Perception) 
 checks until the start of your next turn. You lose 
 this benefit if you move or fall prone, either voluntarily or 
-because of some external effect.\
+because of some external effect.<br/>
 You are still automatically detected if any effect 
 or action causes you to no longer be hidden.
 If you are still hidden on your next turn, you 
@@ -251,7 +251,7 @@ At 18th level, you gain preternatural senses that
 help you fight creatures you can’t see. When you 
 attack a creature you can’t see, your inability to 
 see it doesn’t impose disadvantage on your 
-attack rolls against it.\
+attack rolls against it.<br/>
 You are also aware of the location of any 
 invisible creature within 30 feet of you, provided 
 that the creature isn’t hidden from you and you 
@@ -269,7 +269,7 @@ but before any effects of the roll are applied.
 ##### Animal Companion
 At 3rd level, you learn to use your magic to 
 create a powerful bond with a creature of the 
-natural world.\
+natural world.<br/>
 With 8 hours of work and the expenditure of 
 50 gp worth of rare herbs and fine food, you call 
 forth an animal from the wilderness to serve as 
@@ -284,7 +284,7 @@ logically be present in the area.
 At the end of the 8 hours, your animal 
 companion appears and gains all the benefits of 
 your Companion’s Bond ability. You can have 
-only one animal companion at a time.\
+only one animal companion at a time.<br/>
 If your animal companion is ever slain, the 
 magical bond you share allows you to return it to 
 life. With 8 hours of work and the expenditure of 
@@ -302,7 +302,7 @@ companion.
 Your animal companion gains a variety of 
 benefits while it is linked to you.
 The animal companion loses its Multiattack 
-action, if it has one.\
+action, if it has one.<br/>
 The companion obeys your commands as best 
 it can. It rolls for initiative like any other 
 creature, but you determine its actions, decisions, 
@@ -312,25 +312,25 @@ When using your Natural Explorer feature, you
 and your animal companion can both move 
 stealthily at a normal pace. Your animal companion has 
 abilities and game  statistics determined in part by 
-your level. \
+your level. <br/>
 Your companion uses your proficiency bonus rather 
 than its own. In addition to the areas where it 
 normally uses its proficiency bonus, an animal 
 companion also adds its proficiency bonus to its 
-AC and to its damage rolls.\
+AC and to its damage rolls.<br/>
 Your animal companion gains proficiency in 
 two skills of your choice. It also becomes 
-proficient with all saving throws.\
+proficient with all saving throws.<br/>
 For each level you gain after 3rd, your animal 
 companion gains an additional hit die and 
-increases its hit points accordingly.\
+increases its hit points accordingly.<br/>
 Whenever you gain the Ability Score  Improvement class feature, your 
 companion’s  abilities also improve. Your companion can 
 increase one ability score of your choice by 2, or 
 it can increase two ability scores of your choice 
 by 1. As normal, your companion can’t increase
 an ability score above 20 using this feature 
-unless its description specifies otherwise.\
+unless its description specifies otherwise.<br/>
 Your companion shares your alignment, and 
 has a personality trait and a flaw that you can  
 roll for or select from the tables below. Your 
@@ -362,7 +362,7 @@ d6 |Flaw
 
 ##### Coordinated Attack
 Beginning at 5th level, you and your animal
-companion form a more potent fighting team. \
+companion form a more potent fighting team. <br/>
 When you use the Attack action on your turn, if 
 your companion can see you, it can use its 
 reaction to make a melee attack.
@@ -383,17 +383,17 @@ against it.
 #### Hunter
 ##### Hunter’s Prey
 At 3rd level, you gain one of the following 
-features of your choice.\
+features of your choice.<br/>
 **Colossus Slayer.** Your tenacity can wear down 
 the most potent foes. When you hit a creature 
 with a weapon attack, the creature takes an extra 
 1d8 damage if it’s below its hit point maximum. 
-You can deal this extra damage only once per turn.\
+You can deal this extra damage only once per turn.<br/>
 **Giant Killer.** When a Large or larger creature 
 within 5 feet of you hits or misses you with an 
 attack, you can use your reaction to attack that 
 creature immediately after its attack, provided 
-that you can see the creature.\
+that you can see the creature.<br/>
 **Horde Breaker.** Once on each of your turns 
 when you make a weapon attack, you can make 
 another attack with the same weapon against a 
@@ -405,42 +405,42 @@ instead of once, whenever you take the Attack
 action on your turn.
 ##### Defensive Tactics
 At 7th level, you gain one of the following 
-features of your choice.\
+features of your choice.<br/>
 **Escape the Horde.** Opportunity attacks against 
-you are made with disadvantage.\
+you are made with disadvantage.<br/>
 **Multiattack Defense.** When a creature hits 
 you with an attack, you gain a +4 bonus to AC 
 against all subsequent attacks made by that 
-creature for the rest of the turn.\
+creature for the rest of the turn.<br/>
 **Steel Will.** You have advantage on saving 
 throws against being frightened.
 ##### Multiattack
 At 11th level, you gain one of the following 
-features of your choice.\
+features of your choice.<br/>
 **Volley.** You can use your action to make a 
 ranged attack against any number of creatures 
 within 10 feet of a point you can see within your 
 weapon’s range. You must have ammunition for 
 each target, as normal, and you make a separate 
-attack roll for each target.\
+attack roll for each target.<br/>
 **Whirlwind Attack.** You can use your action to 
 make melee attacks against any number of 
 creatures within 5 feet of you, with a separate 
 attack roll for each target.
 ##### Superior Hunter’s Defense
 At 15th level, you gain one of the following 
-features of your choice.\
+features of your choice.<br/>
 **Evasion.** When you are subjected to an effect, 
 such as a red dragon’s fiery breath or a lightning 
 bolt spell, that allows you to make a Dexterity 
 saving throw to take only half damage, you 
 instead take no damage if you succeed on a 
-saving throw, and only half damage if you fail.\
+saving throw, and only half damage if you fail.<br/>
 **Stand Against the Tide.** When a hostile 
 creature misses you with a melee attack, you can 
 use your reaction to force that creature to repeat 
 the same attack against another creature (other 
-than itself) of your choice.\
+than itself) of your choice.<br/>
 **Uncanny Dodge.** When an attacker that you 
 can see hits you with an attack, you can use your 
 reaction to halve the attack’s damage against you.
@@ -469,7 +469,7 @@ turn, you can make one additional weapon attack as part of that action. If that 
 ##### UMBRAL SIGHT
 At 3rd level, you gain darkvision out to a range of 60
 feet. If you already have darkvision from your race, its
-range increases by 30 feet.\
+range increases by 30 feet.<br/>
 You are also adept at evading creatures that rely
 on darkvision. While in darkness, you are invisible
 to any creature that relies on darkvision to see you in
@@ -507,13 +507,13 @@ Ranger Level |Spell
 At 3rd level, you gain the ability to magically sense the
 presence of a planar portal. As an action, you detect
 the distance and direction to the closest planar portal
-within 1 mile of you.\
+within 1 mile of you.<br/>
 Once you use this feature, you can’t use it again until
-you finish a short or long rest.\
+you finish a short or long rest.<br/>
 See the “Planar Travel” section in chapter 2 of the
 Dungeon Master’s Guide for examples of planar portals.
 ##### PLANAR WARRIOR
-At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.\
+At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.<br/>
 As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature
 on this turn with a weapon attack, all damage dealt
 by the attack becomes force damage, and the creature takes an extra 1d8 force damage from the attack. When
@@ -567,7 +567,7 @@ You immediately learn whether the creature has any
 damage immunities, resistances, or vulnerabilities and
 What they are. If the creature is hidden from divination
 magic, you sense that it has no damage immunities, re—
-sistances, or vulnerabilities.\
+sistances, or vulnerabilities.<br/>
 You can use this feature a number of times equal to
 your Wisdom modifier (minimum of once). You regain all
 expended uses of it when you finish a long rest.
@@ -576,7 +576,7 @@ Starting at 3rd level, you can focus your ire on one foe,
 increasing the harm you inflict on it. As a bonus action,
 you designate one creature you can see within 60 feet of
 you as the target of this feature. The first time each turn
-that you hit that target with a weapon attack, it takes an extra 1d6 damage from the weapon.\
+that you hit that target with a weapon attack, it takes an extra 1d6 damage from the weapon.<br/>
 This benefit lasts until you finish a short or long rest. It
 ends early if you designate a different creature.
 ##### Extra Attack
@@ -593,7 +593,7 @@ targets grapple, add 1d6 to your roll.
 At 11th level, you gain the ability to thwart someone
 else’s magic. When you see a creature casting a spell or
 teleporting within 60 feet of you, you can use your reaction to try to magically foil it. The creature must succeed
-on a Wisdom saving throw against your spell save DC, or its spell or teleport fails and is wasted.\
+on a Wisdom saving throw against your spell save DC, or its spell or teleport fails and is wasted.<br/>
 Once you use this feature, you can’t use it again until
 you finish a short or long rest.
 ##### SLAYER’S COUNTER

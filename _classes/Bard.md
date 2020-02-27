@@ -29,16 +29,16 @@ name: Bard
 ### Class features
 
 ##### Hit Points
-**Hit Dice:** 1d8 per bard level\
-**Hit Points at 1st Level:** 8 + your Constitution modifier\
+**Hit Dice:** 1d8 per bard level<br/>
+**Hit Points at 1st Level:** 8 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d8 (or 5) + your
 Constitution modifier per bard level after 1st
 
 ##### Proficiencies
-**Armor:** Light armor\
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords\
-**Tools:** Three musical instruments of your choice\
-**Saving Throws:** Dexterity, Charisma\
+**Armor:** Light armor<br/>
+**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords<br/>
+**Tools:** Three musical instruments of your choice<br/>
+**Saving Throws:** Dexterity, Charisma<br/>
 **Skills:** Choose any three
 
 ##### Equipment
@@ -78,7 +78,7 @@ when you learn more bard spells of your choice. Each of
 these spells must be of a level for which you have spell
 slots, as shown on the table. For instance, when you
 reach 3rd level in this class, you can learn one new spell
-of 1st or 2nd level.\
+of 1st or 2nd level.<br/>
 Additionally, when you gain a level in this class, you
 can choose one of the bard spells you know and replace
 it with another spell from the bard spell list, which also
@@ -88,12 +88,12 @@ must be of a level for which you have spell slots.
 spells. Your magic comes from the heart and soul you
 pour into the perform ance of your music or oration.
 You use your Charisma whenever a spell refers to your
-spellcasting ability. \
+spellcasting ability. <br/>
 In addition, you use your Charisma
 modifier when setting the saving throw DC for a bard
 spell you cast and when making an attack roll with one.
 > **Spell save DC** = 8 + your proficiency bonus +
-your Charisma modifier \
+your Charisma modifier <br/>
 **Spell attack modifier** = your proficiency bonus +
 your Charisma modifier
 
@@ -109,7 +109,7 @@ You can inspire others through stirring words or music.
 To do so, you use a bonus action on your turn to choose
 one creature other than yourself within 60 feet of you
 who can hear you. That creature gains one 
-Bardic Inspiration die, a d6.\
+Bardic Inspiration die, a d6.<br/>
 Once within the next 10 minutes, the creature can roll
 the die and add the number rolled to one **ability check**,
 **attack roll**, or **saving throw** it makes. The creature can
@@ -117,7 +117,7 @@ wait until after it rolls the d20 before deciding to use the
 Bardic Inspiration die, but must decide before the DM
 says whether the roll succeeds or fails. Once the Bardic
 Inspiration die is rolled, it is lost. A creature can have
-only one Bardic Inspiration die at a time.\
+only one Bardic Inspiration die at a time.<br/>
 You can use this feature a number of times equal
 to your Charisma modifier (a minimum of once). You
 regain any expended uses when you finish a long rest.
@@ -135,7 +135,7 @@ oration to help revitalize your wounded allies during
 a short rest. If you or any friendly creatures who can
 hear your perform ance regain hit points at the end of
 the short rest, each of those creatures regains an extra
-1d6 hit points.\
+1d6 hit points.<br/>
 The extra hit points increase when you reach certain
 levels in this class: to 1d8 at 9th level, to 1d 10 at 13th
 level, and to 1d12 at 17th level.
@@ -255,21 +255,21 @@ can make one weapon attack as a bonus action.
 ##### MANTLE OF INSPIRATION
 When you join the College of Glamour at 3rd level, you
 gain the ability to weave a song of fey magic that imbues
-your allies with vigor and speed.\
+your allies with vigor and speed.<br/>
 As a bonus action, you can expend one use of your
 Bardic Inspiration to grant yourself a wondrous appear- ance. When you do 
 so, choose a number of creatures you can see and that can see you within 
 60 feet of you, up to a number equal to your Charisma modifier (minimum of 
 one). Each of them gains 5 temporary hit points. When a creature gains 
 these temporary hit points, it can immediately use its reaction to move up 
-to its speed, without provoking opportunity attacks.\
+to its speed, without provoking opportunity attacks.<br/>
 The number of temporary hit points inoreases when
 you reach certain levels in this class, increasing to 8 at
 5th level, 11 at 10th level, and 14 at 15th level.
 
 ##### ENTHRALLING PERFORMANCE
 Starting at 3rd level, you can charge your performance
-with seductive, fey magic.\
+with seductive, fey magic.<br/>
 If you perform for at least 1 minute, you can attempt
 to inspire wonder in your audience by singing, reciting
 a poem, or dancing. At the end of the performance,
@@ -284,9 +284,9 @@ anyone who Opposes you, although it avoids violence
 unless it was already inclined to fight on your behalf.
 This effect ends on a target after 1 hour, if it takes any
 damage, if you attack it, or if it witnesses you attacking
-or damaging any of its allies.\
+or damaging any of its allies.<br/>
 If a target succeeds on its saving throw, the target has
-nO hint that you tried tO charm it.\
+nO hint that you tried tO charm it.<br/>
 Once you use this feature, you can’t use it again until
 you finish a short or long rest.
 ##### MANTLE OF MAJESTY
@@ -297,16 +297,16 @@ slot, and you take on an appearance of unearthly beauty
 for 1 minute or until your concentration ends (as if you were 
 concentrating on a spell). During this time, you
 can cast command as a bonus action on each of your
-turns, without expending a spell slot.\
+turns, without expending a spell slot.<br/>
 Any creature charmed by you automatically fails
 its saving throw against the command you cast with
-this feature.\
+this feature.<br/>
 Once you use this feature, you can’t use it again until
 you finish a long rest.
 ##### UNBREAKABLE MAJESTY
 At 14th level, your appearance permanently gains an
 otherworldly aspect that makes you look more lovely
-and fierce.\
+and fierce.<br/>
 In addition, as a bonus action, you can assume a magically majestic 
 presence for 1 minute or until you are
 incapacitated. For the duration, whenever any creature
@@ -316,7 +316,7 @@ spell save DC. On a failed save, it can’t attack you on this
 turn, and it must choose a new target for its attack or the
 attack is wasted. On a successful save, it can attack you
 on this turn, but it has disadvantage on any saving throw
-it makes against your spells on your next turn.\
+it makes against your spells on your next turn.<br/>
 Once you assume this majestic presence, you can’t do
 so again until you finish a short or long rest.
 
@@ -334,31 +334,31 @@ take a Fighting Style option more than once, even if
 something in the game lets you choose again.
 Dueling. When you are wielding a melee weapon in
 one hand and no other weapons, you gain a +2 bonus to
-damage rolls with that weapon.\
+damage rolls with that weapon.<br/>
 Two-Weapon Fighting. When you engage in two‘
 weapon fighting, you can add your ability modifier to the
 damage of the second attack.
 ##### BLADE FLOURISH
 At 3rd level, you learn to perform impressive displays of
-martial prowess and speed.\
+martial prowess and speed.<br/>
 Whenever you take the Attack action on your turn,
 your walking speed increases by 10 feet until the end of
 the turn, and if a weapon attack that you make as part of
 this action hits a creature, you can use one of the following Blade 
 Flourish options of your choice. You can use
-only one Blade Flourish option per turn.\
+only one Blade Flourish option per turn.<br/>
 **Defensive Flourish.** You can expend one use of your
 Bardic Inspiration to cause the weapon to deal extra
 damage to the target you hit. The damage equals the
 number you roll on the Bardic Inspiration die. You also
 add the number rolled to your AC until the start of your
-next turn.\
+next turn.<br/>
 **Slashing Flourish.** You can expend one use of your
 Bardic Inspiration to cause the weapon to deal extra
 damage to the target you hit and to any other creature
 of your choice that you can see within 5 feet ofyou. The
 damage equalsthe number you roll on the Bardic Inspi—
-ration die.\
+ration die.<br/>
 **Mobile Flourish.** You can expend one use of your Bar—
 dic Inspiration to cause the weapon to deal extra dam—
 age to the target you hit. The damage equals the number
@@ -379,11 +379,11 @@ roll a d6 and use it instead of expending a Bardic Inspiration die.
 ##### PSYCHIC BLADES
 When you join the College of Whispers at 3rd level, you
 gain the ability to make your weapon attacks magically
-toxic to a creature’s mind.\
+toxic to a creature’s mind.<br/>
 When you hit a creature with a weapon attack, you
 can expend one use of your Bardic Inspiration to deal an
 extra 2d6 psychic damage to that target. You can do so
-only once per round on your turn.\
+only once per round on your turn.<br/>
 The psychic damage increases when you reach certain levels in this class, 
 increasing to 3d6 at 5th level, 5d6 at 10th level, and 8d6 at 15th level.
 ##### WORDS OF TERROR
@@ -395,9 +395,9 @@ end of the conversation, the target must succeed on a Wisdom saving throw
 against your spell save DC or be frightened of you or another creature of 
 your choice. The target is frightened in this way for 1 hour, until it is 
 attacked or damaged, or until it witnesses its allies being attacked or 
-damaged.\
+damaged.<br/>
 If the target succeeds on its saving throw, the target
-has no hint that you tried to frighten it.\
+has no hint that you tried to frighten it.<br/>
 Once you use this feature, you can't use it again until
 you finish a short or long rest.
 ##### MANTLE OF WHISPERS
@@ -405,22 +405,22 @@ At 6th level, you gain the ability to adopt a humanoid’s
 persona. When a humanoid dies within 30 feet of you,
 you can magically capture its shadow using your reac—
 tion. You retain this shadow until you use it or you finish
-a long rest.\
+a long rest.<br/>
 You can use the shadow as an action. When you do so,
 it vanishes, magically transforming into a disguise that
 appears on you. You now look like the dead person, but
 healthy and alive. This disguise lasts for 1 hour or until
-you end it as a bonus action.\
+you end it as a bonus action.<br/>
 While you’re in the disguise, you gain access to all
 information that the humanoid would freely share with
 a casual acquaintance. Such information includes general details on its 
 background and personal life, but doesn’t include secrets. The information 
 is enough that you can pass yourself off as the person by drawing on
-its memories.\
+its memories.<br/>
 Another creature can see through this disguise by
 succeeding on a Wisdom (Insight) check contested by
 your Charisma (Deception) check. You gain a +5 bonus
-to your check.\
+to your check.<br/>
 Once you capture a shadow with this feature, you
 can’t capture another one with it until you finish a short or long rest.
 ##### SHADOW LORE
@@ -442,8 +442,8 @@ The charmed creature obeys your commands for fear
 that you will reveal its secret. It won’t risk its life for
 you or fight for you, unless it was already inclined to
 do so. It grants you favors and gifts it would offer to a
-close friend.\
+close friend.<br/>
 When the effect ends, the creature has no understanding of why it held you 
-in such fear.\
+in such fear.<br/>
 Once you use this feature, you can’t use it again until
 you finish a long rest.

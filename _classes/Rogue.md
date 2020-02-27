@@ -28,16 +28,16 @@ Level|Proficiency Bonus|Sneak Attack |Features
 
 ### Class features
 ##### Hit Points
-**Hit Dice:** 1d8 per rogue level\
-**Hit Points at 1st Level:** 8 + your Constitution modifier\
+**Hit Dice:** 1d8 per rogue level<br/>
+**Hit Points at 1st Level:** 8 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d8 (or 5) + your
 Constitution modifier per rogue level after 1st
 ##### Proficiencies
-**Armor:** Light armor\
+**Armor:** Light armor<br/>
 **Weapons:** Simple weapons, hand crossbows,
-longswords, rapiers, shortswords\
-**Tools:** Thieves’ tools\
-**Saving Throws:** Dexterity. Intelligence\
+longswords, rapiers, shortswords<br/>
+**Tools:** Thieves’ tools<br/>
+**Saving Throws:** Dexterity. Intelligence<br/>
 **Skills:** Choose four from Acrobatics, Athletics,
 Deception. Insight, Intimidation, Investigation,
 Perception, Performance. Persuasion, Sleight of Hand, and Stealth
@@ -56,7 +56,7 @@ At 1st level, choose two of your skill proficiencies, or
 one of your skill proficiencies and your proficiency with
 thieves’ tools. Your proficiency bonus is doubled for any
 ability check you make that uses either of the chosen
-proficiencies.\
+proficiencies.<br/>
 At 6th level, you can choose two more of your
 proficiencies (in skills or with thieves’ tools) to gain
 this benefit.
@@ -65,11 +65,11 @@ Beginning at 1st level, you knowhow to strike subtly
 and exploit a foe’s distraction. Once per turn, you can
 deal an extra 1d6 damage to one creature you hit with
 an attack if you have advantage on the attack roll. The
-attack must use a finesse or a ranged weapon.\
+attack must use a finesse or a ranged weapon.<br/>
 You don’t need advantage on the attack roll if another
 enemy of the target is within 5 feet of it, that enemy
 isn’t incapacitated, and you don’t have disadvantage on
-the attack roll.\
+the attack roll.<br/>
 The amount of the extra damage increases as you
 gain levels in this class, as shown in the Sneak Attack
 column of the Rogue table.
@@ -79,7 +79,7 @@ secret mix of dialect, jargon, and code that allows you to
 hide messages in seemingly normal conversation. Only
 another creature that knows thieves’ cant understands
 such messages. It takes four times longer to convey such
-a message than it does to speak the same idea plainly.\
+a message than it does to speak the same idea plainly.<br/>
 In addition, you understand a set of secret signs and
 symbols used to convey short, simple messages, such
 as whether an area is dangerous or the territory of a
@@ -209,7 +209,7 @@ another person’s speech, writing, and behavior.
 You must spend at least three hours studying
 these three components of the person’s behavior,
 listening to speech, exam ining handwriting, and
-observing mannerisms.\
+observing mannerisms.<br/>
 Your ruse is indiscernible to the casual observer. If a
 wary creature suspects something is am iss, you have
 advantage on any Charisma (D eception) check you make
@@ -246,50 +246,50 @@ Rogue Level|Cantrips Known|Spells Known|1st |2nd |3rd |4th
 ##### Spellcasting
 When you reach 3rd level, you gain the ability to
 cast spells. See chapter 10 for the general rules of
-spellcasting and chapter 11 for the wizard spell list.\
+spellcasting and chapter 11 for the wizard spell list.<br/>
 **Cantrips.** You learn three cantrips: mage hand and
 two other cantrips of your choice from the wizard spell
 list. You learn another wizard cantrip of your choice
-at 10th level.\
+at 10th level.<br/>
 **Spell Slots.** The Arcane Trickster Spellcasting
 table shows how many spell slots you have to cast
 your spells of 1st level and higher. To cast one of these
 spells, you must expend a slot of the spell's level or
 higher. You regain all expended spell slots when you
-finish a long rest.\
+finish a long rest.<br/>
 For example, if you know the 1st-level spell charm
 person and have a 1st-level and a 2nd-level spell slot
 available, you can cast charm person using either slot.
 Spells Known of 1st-Level and Higher. You know
 three 1st-level wizard spells of your choice, two of which
 you must choose from the enchantment and illusion
-spells on the wizard spell list.\
+spells on the wizard spell list.<br/>
 The Spells Known column of the Arcane Trickster
 Spellcasting table shows when you learn more wizard
 spells of 1st level or higher. Each of these spells must
 be an enchantment or illusion spell of your choice, and
 must be of a level for which you have spell slots. For
 instance, when you reach 7th level in this class, you can
-learn one new spell of 1st or 2nd level.\
+learn one new spell of 1st or 2nd level.<br/>
 The spells you learn at 8th, 14th, and 20th level can
-come from any school of magic.\
+come from any school of magic.<br/>
 Whenever you gain a level in this class, you can
 replace one of the wizard spells you know with another
 spell of your choice from the wizard spell list. The
 new spell must be of a level for which you have spell
 slots, and it must be an enchantment or illusion spell,
 unless you’re replacing the spell you gained at 8th, 14th,
-or 20th level.\
+or 20th level.<br/>
 **Spellcasting Ability.** **Intelligence** is your spellcasting
 ability for your wizard spells, since you learn your
-spells through dedicated study and memorization.\
+spells through dedicated study and memorization.<br/>
 You use your Intelligence whenever a spell refers to
 your spellcasting ability. In addition, you use your
 Intelligence modifier when setting the saving throw
 DC for a wizard spell you cast and when making an
 attack roll with one.
 >**Spell save DC** = 8 + your proficiency bonus +
-your Intelligence modifier\
+your Intelligence modifier<br/>
 **Spell attack modifier** = your proficiency bonus +
 your Intelligence modifier
 
@@ -312,7 +312,7 @@ develop a counter to them. As a bonus action, you can make a Wisdom
 (Insight) check against a creature you can see that isn’t incapacitated, 
 contested by the target’s Charisma (Deception) check. If you succeed, you 
 can use your Sneak Attack against that target even if you don’t have 
-advantage on the attack roll, but not if you have disadvantage on it.\
+advantage on the attack roll, but not if you have disadvantage on it.<br/>
 This benefit lasts for 1 minute or until you successfully use this 
 feature against a different target.
 ##### STEADY EYE
@@ -327,7 +327,7 @@ and other magic designed to deceive the senses within
 30 feet of you, provided you aren’t blinded or deafened.
 You sense that an effect is attempting to trick you,
 but you gain no insight into what is hidden or into its
-true nature.\
+true nature.<br/>
 You can use this feature a number of times equal to
 your Wisdom modifier (minimum of once), and you re- gain all expended 
 uses of it when you finish a long rest.
@@ -343,7 +343,7 @@ increases by 3d6.
 When you choose this archetype at 3rd level, you gain
 proficiency with the disguise kit, the forgery kit, and one
 gaming set Of your choice. You also learn two languages
-of your choice.\
+of your choice.<br/>
 Additionally, you can unerringly mimic the speech
 patterns and accent of a creature that you hear speak
 for at least 1 minute, enabling you to pass yourself off as a native 
@@ -379,7 +379,7 @@ Starting at 17th level, your thoughts can’t be read by
 telepathy or other means, unless you allow it. You can
 present false thoughts by succeeding on a Charisma
 (Deception) check contested by the mind reader’s Wis—
-dom (Insight) check.\
+dom (Insight) check.<br/>
 Additionally, no matter what you say, magic that would
 determine if you are telling the truth indicates you are being truthful if you so choose, and you can’t be compelled to tell the truth by magic.
 
@@ -402,7 +402,7 @@ you have a climbing or swimming speed, this increase
 applies to that speed as well.
 ##### AMBUSH MASTER
 Starting at 13th level, you excel at leading ambushes
-and acting first in a fight.\
+and acting first in a fight.<br/>
 You have advantage on initiative rolls. In addition, the
 first creature you hit during the first round of a combat
 becomes easier for you and others to strike; attack rolls
@@ -440,10 +440,10 @@ contested by a creature’s Wisdom (Insight) check. The creature must be
 able to hear you, and the two of you must share a language.
 If you succeed on the check and the creature is hostile
 to you, it has disadvantage on attack rolls against targets other than 
-you and can’t make opportunity attacks against targets other than you. \
+you and can’t make opportunity attacks against targets other than you. <br/>
 This effect lasts for 1 minute, until one of your companions attacks the 
 target or affects it with a spell, or until you and the target are more 
-than 60 feet apart.\
+than 60 feet apart.<br/>
 If you succeed on the check and the creature isn’t
 hostile to you, it is charmed by you for 1 minute. While
 charmed, it regards you as a friendly acquaintance. This

@@ -28,15 +28,15 @@ Level|Proficiency Bonus|Sorcery Points |Features| Cantrips Known|SpellsKnown|1st
 
 ### Class features
 ##### Hit Points
-**Hit Dice:** 1d6 per sorcerer level\
-**Hit Points at 1st Level:** 6 + your Constitution modifier\
+**Hit Dice:** 1d6 per sorcerer level<br/>
+**Hit Points at 1st Level:** 6 + your Constitution modifier<br/>
 **Hit Points at Higher Levels:** 1d6 (or 4) + your
 Constitution modifier per sorcerer level after 1st
 ##### Proficiencies
-**Armor:** None\
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows\
-**Tools:** None\
-**Saving Throws:** Constitution, Charisma\
+**Armor:** None<br/>
+**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows<br/>
+**Tools:** None<br/>
+**Saving Throws:** Constitution, Charisma<br/>
 **Skills:** C hoose two from Arcana, Deception, Insight,
 Intimidation, Persuasion, and Religion
 ##### Equipment
@@ -62,19 +62,19 @@ The Sorcerer table shows how many spell slots you
 have to cast your spells of 1st level and higher. To cast
 one of these sorcerer spells, you must expend a slot of
 the spell’s level or higher. You regain all expended spell
-slots when you finish a long rest.\
+slots when you finish a long rest.<br/>
 For example, if you know the 1st-level spell burning
 hands and have a 1st-level and a 2nd-level spell slot
 available, you can cast burning hands using either slot.
 ##### Spells Known of 1st Level and Higher
 You know two 1st-level spells of your choice from the
-sorcerer spell list.\
+sorcerer spell list.<br/>
 The Spells Known column of the Sorcerer table
 shows when you learn more sorcerer spells of your
 choice. Each of these spells must be of a level for which
 you have spell slots. For instance, when you reach 3rd
 level in this class, you can learn one new spell of 1st
-or 2nd level.\
+or 2nd level.<br/>
 Additionally, when you gain a level in this class,
 you can choose one of the sorcerer spells you know
 and replace it with another spell from the sorcerer
@@ -89,7 +89,7 @@ ability. In addition, you use your Charisma modifier
 when setting the saving throw DC for a sorcerer spell
 you cast and when making an attack roll with one.
 >**Spell save DC** = 8 + your proficiency bonus +
-your Charisma modifier\
+your Charisma modifier<br/>
 **Spell attack modifier** = your proficiency bonus +
 your Charisma modifier
 ##### Spellcasting Focus
@@ -123,7 +123,7 @@ finish a long rest.
 You can use your sorcery points to gain additional spell
 slots, or sacrifice spell slots to gain additional sorcery
 points. You learn other ways to use your sorcery points
-as you reach higher levels.\
+as you reach higher levels.<br/>
 **Creating Spell Slots.** You can transform unexpended
 sorcery points into one spell slot as a bonus action on
 your turn. The Creating Spell Slots table show s the cost
@@ -146,7 +146,7 @@ slot’s level.
 At 3rd level, you gain the ability to twist your spells
 to suit your needs. You gain two of the following
 Metamagic options of your choice. You gain another one
-at 10th and 17th level.\
+at 10th and 17th level.<br/>
 You can use only one Metamagic option on a spell
 when you cast it, unless otherwise noted.
 ##### Careful Spell
@@ -160,7 +160,7 @@ against the spell.
 ##### Distant Spell
 When you cast a spell that has a range of 5 feet or
 greater, you can spend 1 sorcery point to double the
-range of the spell.\
+range of the spell.<br/>
 When you cast a spell that has a range of touch, you
 can spend 1 sorcery point to make the range of the
 spell 30 feet.
@@ -168,7 +168,7 @@ spell 30 feet.
 When you roll damage for a spell, you can spend 1
 sorcery point to reroll a number of the damage dice up
 to your Charisma modifier (minimum of one). You must
-use the new rolls.\
+use the new rolls.<br/>
 You can use Em powered Spell even if you have
 already used a different Metamagic option during the
 casting of the spell.
@@ -255,7 +255,7 @@ At 14th level, you gain the ability to sprout a pair of
 dragon wings from your back, gaining a flying speed
 equal to your current speed. You can create these wings
 as a bonus action on your turn. They last until you
-dismiss them as a bonus action on your turn.\
+dismiss them as a bonus action on your turn.<br/>
 You can’t manifest your wings while wearing armor
 unless the armor is made to accommodate them, and
 clothing not made to accommodate your wings might
@@ -331,7 +331,7 @@ learn or replace a sorcerer cantrip or a sorcerer spell of
 1st level or higher, you can choose the new spell from
 the cleric spell list or the sorcerer spell list. You must
 otherwise obey all the restrictions for selecting the
-spell, and it becomes a sorcerer spell for you.\
+spell, and it becomes a sorcerer spell for you.<br/>
 In addition, choose an affinity for the source of your
 divine power: good, evil, law, chaos, or neutrality. You
 learn an additional spell based on that affinity, as shown
@@ -364,7 +364,7 @@ Starting at 14th level, you can use a bonus action to
 manifest a pair of spectral wings from your back. While
 the wings are present, you have a flying speed of 30 feet.
 The wings last until you're incapacitated, you die, or you
-dismiss them as a bonus action.\
+dismiss them as a bonus action.<br/>
 The affinity you chose for your Divine Magic feature
 determines the appearance of the spectral wings: eagle
 wings for good or law, bat wings for evil or chaos, and
@@ -373,7 +373,7 @@ dragonfly wings for neutrality.
 At 18th level, you gain the ability to overcome grievous
 injuries. As a bonus action when you have fewer than
 half of your hit points remaining, you can regain a number of hit points 
-equal to half your hit point maximum.\
+equal to half your hit point maximum.<br/>
 Once you use this feature, you can’t use it again until
 you finish a long rest.
 
@@ -381,7 +381,7 @@ you finish a long rest.
 
 ##### EYES OF THE DARK
 Starting at lst level, you have darkvision with a range
-of 120 feet.\
+of 120 feet.<br/>
 When you reach 3rd level in this class, you learn
 the darkness spell, which doesn’t count against your
 number of sorcerer spells known. In addition, you can cast it by spending 
@@ -393,7 +393,7 @@ and death makes you difficult to defeat. When damage reduces you to 0 hit
 points, you can make a Charisma saving throw (DC 5 + the damage taken). On
 a success, you instead drop to 1 hit point. You can’t use
 this feature if you are reduced to 0 hit points by radiant
-damage or by a critical hit.\
+damage or by a critical hit.<br/>
 After the saving throw succeeds, you can’t use this
 feature again until you finish a long rest.
 ##### HOUND OF ILL OMEN
@@ -420,7 +420,7 @@ choice within 30 feet of the target. Roll initiative for the
 hound. On its turn, it can move only toward its target by
 the most direct route, and it can use its action only to attack its 
 target. The hound can make opportunity attacks,
-but only against its target. \
+but only against its target. <br/>
 Additionally, while the hound is within 5 feet of the target, the target 
 has disadvantage on saving throws against any spell you cast. The hound
 disappears if it is reduced to 0 hit points, if its target is
@@ -444,7 +444,7 @@ bonus action.
 
 ##### WIND SPEAKER
 The arcane magic you command is infused with elemental air. You can speak,
-read, and write Primordial.\
+read, and write Primordial.<br/>
 Knowing this language allows you to understand and
 be understood by those who speak its dialects: Aquan,
 Auran, Ignan, and Terran.
@@ -465,10 +465,10 @@ causes creatures of your choice that you can see within
 your sorcerer level.
 ##### STORM GUIDE
 At 6th level, you gain the ability to subtly control the
-weather around you.\
+weather around you.<br/>
 If it is raining, you can use an action to cause the rain
 to stop falling in a 20-foot—radius sphere centered on
-you. You can end this effect as a bonus action.\
+you. You can end this effect as a bonus action.<br/>
 If it is windy, you can use a bonus action each
 round to choose the direction that the wind blows in a
 100-foot-radius sphere centered on you. The wind blows
