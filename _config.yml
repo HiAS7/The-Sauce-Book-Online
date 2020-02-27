@@ -1,9 +1,8 @@
 title: The Sauce Book Online
 permalink: :slug
-theme: jekyll-theme-leaf
+theme: jekyll-theme-architect
 iconURL: /assets/default-icon.png
-url: HIAS7.github.io
-baseurl: /The-Sauce-Book-Online
+url: saucebook.github.io
 collections:
     races:
         output: true
