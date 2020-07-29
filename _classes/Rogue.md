@@ -244,6 +244,7 @@ Rogue Level|Cantrips Known|Spells Known|1st |2nd |3rd |4th
 18th| 4| 11| 4 |3 |3 |—
 19th| 4| 12| 4 |3 |3 |1
 20th| 4| 13| 4 |3 |3 |1
+
 ##### Spellcasting
 When you reach 3rd level, you gain the ability to
 cast spells. See chapter 10 for the general rules of
