@@ -223,6 +223,7 @@ bonus). On a failed save, double the damage of your
 attack against the creature.
 
 #### Arcane Trickster
+
 Rogue Level|Cantrips Known|Spells Known|1st |2nd |3rd |4th
 -|-|-|-|-|-|-
 3rd |3 |3 |2 |— |— |—
